@@ -1,0 +1,678 @@
+Boot time is super fast , around anywhere from 35 seconds to 1 minute .
+<e> Boot time <d> fast <d> positive </s> </e>
+tech support would not fix the problem unless I bought your plan for $ 150 plus .
+<e> tech support <d> not fix <d> negative </s> </e>
+Set up was easy .
+<e> Set up <d> easy <d> positive </s> </e>
+Did not enjoy the new Windows 8 and touchscreen functions .
+<e> Windows 8 <d> not enjoy <d> negative </s> touchscreen functions <d> not enjoy <d> negative </s> </e>
+Other than not being a fan of click pads ( industry standard these days ) and the lousy internal speakers , it 's hard for me to find things about this notebook I do n't like , especially considering the $ 350 price tag .
+<e> internal speakers <d> lousy <d> negative </s> </e>
+It 's fast , light , and simple to use .
+<e> use <d> fast <d> positive </s> use <d> light <d> positive </s> use <d> simple <d> positive </s> </e>
+Works well , and I am extremely happy to be back to an apple OS .
+<e> Works <d> well <d> positive </s> apple OS <d> happy <d> positive </s> </e>
+Sure it 's not light and slim but the features make up for it 100 % .
+<e> features <d> not light and slim <d> positive </s> </e>
+I am pleased with the fast log on , speedy WiFi connection and the long battery life ( > 6 hrs ) .
+<e> log on <d> pleased <d> positive </s> log on <d> fast <d> positive </s> WiFi connection <d> speedy <d> positive </s> battery life <d> long <d> positive </s> </e>
+The Apple engineers have not yet discovered the delete key .
+<e> delete key <d> not yet discovered <d> negative </s> </e>
+Made interneting ( part of my business ) very difficult to maintain .
+<e> interneting <d> difficult <d> negative </s> </e>
+Luckily , for all of us contemplating the decision , the Mac Mini is priced just right .
+<e> priced <d> right <d> positive </s> </e>
+Only problem that I had was that the track pad was not very good for me , I only had a problem once or twice with it , But probably my computer was a bit defective .
+<e> track pad <d> not very good <d> negative </s> </e>
+It is super fast and has outstanding graphics .
+<e> graphics <d> outstanding <d> positive </s> </e>
+But the mountain lion is just too slow .
+<e> mountain lion <d> slow <d> negative </s> </e>
+Strong build though which really adds to its durability .
+<e> build <d> Strong <d> positive </s> durability <d> Strong <d> positive </s> </e>
+The battery life is excellent -- 6-7 hours without charging .
+<e> battery life <d> excellent <d> positive </s> </e>
+I 've had my computer for 2 weeks already and it works perfectly .
+<e> works <d> perfectly <d> positive </s> </e>
+And I may be the only one but I am really liking Windows 8 .
+<e> Windows 8 <d> liking <d> positive </s> </e>
+The baterry is very longer .
+<e> baterry <d> longer <d> positive </s> </e>
+Its size is ideal and the weight is acceptable .
+<e> size <d> ideal <d> positive </s> weight <d> acceptable <d> positive </s> </e>
+I can say that I am fully satisfied with the performance that the computer has supplied .
+<e> performance <d> satisfied <d> positive </s> </e>
+It has so much more speed and the screen is very sharp .
+<e> speed <d> much more <d> positive </s> screen <d> sharp <d> positive </s> </e>
+Everything I wanted and everything I needed and the price was great !
+<e> price <d> great <d> positive </s> </e>
+It 's not inexpensive but the Hardware performance is impressive for a computer this small .
+<e> Hardware performance <d> impressive <d> positive </s> </e>
+This thing is awesome , everything always works , everything is always easy to set up , everything is compatible , its literally everything I could ask for .
+<e> works <d> always <d> positive </s> set up <d> easy <d> positive </s> </e>
+Keyboard responds well to presses .
+<e> Keyboard <d> responds well <d> positive </s> </e>
+Lastly , Windows 8 is annoying .
+<e> Windows 8 <d> annoying <d> negative </s> </e>
+Everything is so easy and intuitive to setup or configure .
+<e> setup <d> easy <d> positive </s> setup <d> intuitive <d> positive </s> configure <d> easy <d> positive </s> configure <d> intuitive <d> positive </s> </e>
+Biggest complaint is Windows 8 .
+<e> Windows 8 <d> complaint <d> negative </s> </e>
+Only 2 usb ports ... seems kind of ... limited .
+<e> usb ports <d> limited <d> negative </s> </e>
+It has all the expected features and more +plus a wide screen and more than roomy keyboard .
+<e> features <d> expected <d> positive </s> screen <d> wide <d> positive </s> keyboard <d> roomy <d> positive </s> </e>
+Amazing Performance for anything I throw at it .
+<e> Performance <d> Amazing <d> positive </s> </e>
+The receiver was full of superlatives for the quality and performance .
+<e> quality <d> superlatives <d> positive </s> performance <d> superlatives <d> positive </s> </e>
+I was extremely happy with the OS itself .
+<e> OS <d> happy <d> positive </s> </e>
+The new MBP offers great portability and gives us confidence that we are not going to need to purchase a new laptop in 18 months .
+<e> portability <d> great <d> positive </s> </e>
+The criticism has waned , and now I 'd be the first to recommend an Air for truly portable computing .
+<e> portable computing <d> recommend <d> positive </s> portable computing <d> truly <d> positive </s> </e>
+MS Office 2011 for Mac is wonderful , well worth it .
+<e> MS Office 2011 for Mac <d> wonderful <d> positive </s> MS Office 2011 for Mac <d> well worth <d> positive </s> </e>
+But the performance of Mac Mini is a huge disappointment .
+<e> performance <d> disappointment <d> negative </s> </e>
+They do n't just look good ; they deliver excellent performance .
+<e> look <d> good <d> positive </s> performance <d> excellent <d> positive </s> </e>
+I have had it over a year now with out a Glitch of any kind..I love the lit up keys and screen display ... this thing is Fast and clear as can be .
+<e> lit up keys <d> love <d> positive </s> lit up keys <d> Fast <d> positive </s> lit up keys <d> clear <d> positive </s> screen display <d> love <d> positive </s> screen display <d> Fast <d> positive </s> screen display <d> clear <d> positive </s> </e>
+The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows .
+<e> Mountain Lion OS <d> not hard <d> positive </s> Microsoft Windows <d> familiar <d> neutral </s> </e>
+However , I can refute that OSX is `` FAST '' .
+<e> OSX <d> FAST <d> negative </s> </e>
+Enjoy using Microsoft Office !
+<e> Microsoft Office <d> Enjoy <d> positive </s> </e>
+Incredible graphics and brilliant colors .
+<e> graphics <d> Incredible <d> positive </s> colors <d> brilliant <d> positive </s> </e>
+Built-in apps are purely amazing .
+<e> Built-in apps <d> amazing <d> positive </s> </e>
+From the speed to the multi touch gestures this operating system beats Windows easily .
+<e> operating system <d> beats <d> positive </s> </e>
+I really like the size and I 'm a fan of the ACERS .
+<e> size <d> like <d> positive </s> </e>
+I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty ( $ 1500-2000 ) which also support `` accidents '' like drops and spills that are NOT covered by AppleCare .
+<e> SquareTrade 3-Year Computer Accidental Protection Warranty <d> support <d> positive </s> AppleCare <d> NOT covered <d> negative </s> </e>
+It 's light and easy to transport .
+<e> transport <d> light <d> positive </s> transport <d> easy <d> positive </s> </e>
+Once you get past learning how to use the poorly designed Windows 8 Set-Up you may feel frustrated .
+<e> Windows 8 Set-Up <d> poorly designed <d> negative </s> Windows 8 Set-Up <d> frustrated <d> negative </s> </e>
+The aluminum body sure makes it stand out .
+<e> aluminum body <d> stand out <d> positive </s> </e>
+It is very easy to integrate bluetooth devices , and USB devices are recognized almost instantly .
+<e> integrate bluetooth devices <d> easy <d> positive </s> USB devices <d> instantly <d> positive </s> </e>
+And the fact that Apple is driving the 13 '' RMBP with the Intel4000 graphic chip seems underpowered ( to me .
+<e> Intel4000 graphic chip <d> underpowered <d> negative </s> </e>
+Apple removed the DVD drive Firewire port ( will work with adapter ) and put the SDXC slot in a silly position on the back .
+<e> DVD drive Firewire port <d> removed <d> neutral </s> SDXC slot <d> silly <d> negative </s> </e>
+The durability of the laptop will make it worth the money .
+<e> durability <d> worth <d> positive </s> </e>
+Well designed and fast .
+<e> designed <d> Well <d> positive </s> </e>
+But I was completely wrong , this computer is UNBELIEVABLE amazing and easy to use .
+<e> use <d> easy <d> positive </s> </e>
+Exactly as posted plus a great value .
+<e> value <d> great <d> positive </s> </e>
+The specs are pretty good too .
+<e> specs <d> good <d> positive </s> </e>
+Apple is unmatched in product quality , aesthetics , craftmanship , and customer service .
+<e> product quality <d> unmatched <d> positive </s> aesthetics <d> unmatched <d> positive </s> craftmanship <d> unmatched <d> positive </s> customer service <d> unmatched <d> positive </s> </e>
+It is a great size and amazing windows 8 included !
+<e> size <d> great <d> positive </s> windows 8 <d> amazing <d> positive </s> </e>
+I do not like too much Windows 8 .
+<e> Windows 8 <d> not like <d> negative </s> </e>
+Startup times are incredibly long : over two minutes .
+<e> Startup times <d> long <d> negative </s> </e>
+Also stunning colors and speedy
+<e> colors <d> stunning <d> positive </s> </e>
+great price free shipping what else can i ask for ! !
+<e> price <d> great <d> positive </s> shipping <d> free <d> positive </s> </e>
+This mouse is terrific .
+<e> mouse <d> terrific <d> positive </s> </e>
+It is really thick around the battery .
+<e> battery <d> thick <d> neutral </s> </e>
+And windows 7 works like a charm .
+<e> windows 7 <d> charm <d> positive </s> </e>
+: ) Great product , great price , great delivery , and great service .
+<e> price <d> great <d> positive </s> delivery <d> great <d> positive </s> service <d> great <d> positive </s> </e>
+: ] It arrived so fast and customer service was great .
+<e> customer service <d> great <d> positive </s> </e>
+tried windows 8 and hated it ! ! !
+<e> windows 8 <d> hated <d> negative </s> </e>
+The price is higher than most lab top out there ; however , he/she will get what they paid for , which is a great computer .
+<e> price <d> higher <d> positive </s> </e>
+Set up was a breeze .
+<e> Set up <d> breeze <d> positive </s> </e>
+But I do NOT like Win8 .
+<e> Win8 <d> NOT like <d> negative </s> </e>
+I had the same reasons as most PC users : the price , the overbearing restrictions of OSX and lack of support for games .
+<e> OSX <d> overbearing <d> negative </s> support for games <d> lack <d> negative </s> </e>
+I wanted it for it 's mobility and man , this little bad boy is very nice .
+<e> mobility <d> nice <d> positive </s> </e>
+The investment of a new MacBook Pro came at a price , but totally worth it for a good piece of mind .
+<e> price <d> worth <d> positive </s> </e>
+I found the mini to be : Exceptionally easy to set up
+<e> set up <d> easy <d> positive </s> </e>
+The sound is nice and loud ; I do n't have any problems with hearing anything .
+<e> sound <d> nice <d> positive </s> sound <d> loud <d> positive </s> </e>
+It is very slim , the track pad is very much impressed with me .
+<e> track pad <d> slim <d> positive </s> track pad <d> impressed <d> positive </s> </e>
+The settings are not user-friendly either .
+<e> settings <d> not user-friendly <d> negative </s> </e>
+Thank goodness for OpenOffice !
+<e> OpenOffice <d> goodness <d> positive </s> </e>
+Awesome form factor , great battery life , wonderful UX .
+<e> form factor <d> Awesome <d> positive </s> battery life <d> great <d> positive </s> UX <d> wonderful <d> positive </s> </e>
+i love the keyboard and the screen .
+<e> keyboard <d> love <d> positive </s> screen <d> love <d> positive </s> </e>
+However , there are MAJOR issues with the touchpad which render the device nearly useless .
+<e> touchpad <d> issues <d> negative </s> touchpad <d> useless <d> negative </s> </e>
+I 've already upgraded o Mavericks and I am impressed with everything about this computer .
+<e> Mavericks <d> impressed <d> positive </s> </e>
+Not as fast as I would have expect for an i5 .
+<e> i5 <d> Not as fast <d> negative </s> </e>
+thanks for great service and shipping !
+<e> service <d> great <d> positive </s> shipping <d> great <d> positive </s> </e>
+The performance seems quite good , and built-in applications like iPhoto work great with my phone and camera .
+<e> performance <d> good <d> positive </s> built-in applications <d> great <d> positive </s> iPhoto <d> great <d> positive </s> </e>
+I did swap out the hard drive for a Samsung 830 SSD which I highly recommend .
+<e> Samsung 830 SSD <d> recommend <d> positive </s> </e>
+Yes , that 's a good thing , but it 's made from aluminum that scratches easily .
+<e> aluminum <d> scratches easily <d> negative </s> </e>
+I was also informed that the components of the Mac Book were dirty .
+<e> components <d> dirty <d> negative </s> </e>
+the hardware problems have been so bad , i ca n't wait till it completely dies in 3 years , TOPS !
+<e> hardware <d> bad <d> negative </s> </e>
+It 's so nice that the battery last so long and that this machine has the snow lion !
+<e> battery <d> nice <d> positive </s> battery <d> long <d> positive </s> </e>
+it 's exactly what i wanted , and it has all the new features and whatnot .
+<e> features <d> wanted <d> positive </s> features <d> new <d> positive </s> </e>
+It feels cheap , the keyboard is not very sensitive .
+<e> keyboard <d> cheap <d> negative </s> keyboard <d> not very sensitive <d> negative </s> </e>
+Though please note that sometimes it crashes , and the sound quality isnt superb .
+<e> sound quality <d> isnt superb <d> negative </s> </e>
+It is very easy to navigate even for a novice .
+<e> navigate <d> easy <d> positive </s> </e>
+Does everything I need it to , has a wonderful battery life and I could n't be happier .
+<e> battery life <d> wonderful <d> positive </s> </e>
+Great Performance and Quality .
+<e> Performance <d> Great <d> positive </s> Quality <d> Great <d> positive </s> </e>
+One more thing , this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC 's , also the charging cables are made of the same cheap material as the iPhone/iPod touch cables .
+<e> material <d> cheap <d> negative </s> </e>
+The new os is great on my macbook pro !
+<e> os <d> great <d> positive </s> </e>
+I had a little problem adjusting to the small screen but works fine as long as I remember to carry my glasses .
+<e> screen <d> small <d> positive </s> </e>
+I have experienced no problems , works as anticipated .
+<e> works <d> as anticipated <d> positive </s> </e>
+System is running great .
+<e> System <d> great <d> positive </s> </e>
+Easy to customize setting and even create your own bookmarks .
+<e> customize setting <d> Easy <d> positive </s> create your own bookmarks <d> Easy <d> positive </s> </e>
+it has all the features that we expected and the price was good , working well so far .
+<e> price <d> good <d> positive </s> working <d> well <d> positive </s> </e>
+The new operating system makes this computer into a super iPad .
+<e> operating system <d> new <d> positive </s> </e>
+Easy to set up and go !
+<e> set up <d> Easy <d> positive </s> </e>
+I ca n't believe how quiet the hard drive is and how quick this thing boots up .
+<e> hard drive <d> quiet <d> positive </s> boots up <d> quick <d> positive </s> </e>
+It 's just what we were looking for and it works great .
+<e> works <d> great <d> positive </s> </e>
+It 's so quick and responsive that it makes working / surfing on a computer so much more pleasurable !
+<e> working <d> pleasurable <d> positive </s> surfing <d> pleasurable <d> positive </s> </e>
+It works fine , and all the software seems to run pretty well .
+<e> works <d> fine <d> positive </s> software <d> well <d> positive </s> </e>
+I wanted a computer that was quite , fast , and that had overall great performance .
+<e> performance <d> great <d> neutral </s> </e>
+Harddrive was in poor condition , had to replace it .
+<e> Harddrive <d> poor <d> negative </s> </e>
+The on/off switch is a bit obscure in the rear corner .
+<e> on/off switch <d> obscure <d> negative </s> </e>
+My only complaint is the total lack of instructions that come with the mac mini .
+<e> instructions <d> lack <d> negative </s> </e>
+The only task that this computer would not be good enough for would be gaming , otherwise the integrated Intel 4000 graphics work well for other tasks .
+<e> gaming <d> not be good <d> negative </s> integrated Intel 4000 graphics <d> well <d> positive </s> </e>
+I 'm hoping the rest of the features will be the signature quality of apple .
+<e> features <d> signature <d> positive </s> </e>
+I use it mostly for content creation ( Audio , video , photo editing ) and its reliable .
+<e> Audio <d> reliable <d> positive </s> video <d> reliable <d> positive </s> photo editing <d> reliable <d> positive </s> </e>
+Screen is bright and gorgeous .
+<e> Screen <d> bright <d> positive </s> Screen <d> gorgeous <d> positive </s> </e>
+It is robust , with a friendly use as all Apple products .
+<e> use <d> friendly <d> positive </s> </e>
+It is fast and easy to use .
+<e> use <d> easy <d> positive </s> </e>
+And the fact that it comes with an i5 processor definitely speeds things up
+<e> i5 processor <d> speeds things up <d> positive </s> </e>
+I have been PC for years but this computer is intuitive and its built in features are a great help
+<e> built in features <d> great help <d> positive </s> </e>
+Nice screen , keyboard works great !
+<e> screen <d> Nice <d> positive </s> keyboard <d> great <d> positive </s> </e>
+I was amazed at how fast the delivery was .
+<e> delivery <d> amazed <d> positive </s> delivery <d> fast <d> positive </s> </e>
+The memory was gone and it was not able to be used .
+<e> memory <d> gone <d> negative </s> memory <d> not able to be used <d> negative </s> </e>
+It works great and I am so happy I bought it .
+<e> works <d> great <d> positive </s> </e>
+I like the design and ease of use with the keyboard , plenty of ports .
+<e> design <d> like <d> positive </s> keyboard <d> ease of use <d> positive </s> ports <d> plenty <d> positive </s> </e>
+it definitely beats my old mac and the service was great .
+<e> service <d> great <d> positive </s> </e>
+Web browsing is very quick with Safari browser .
+<e> Web browsing <d> quick <d> positive </s> Safari browser <d> quick <d> positive </s> </e>
+I like the lighted screen at night .
+<e> lighted screen <d> like <d> positive </s> </e>
+It is really easy to use and it is quick to start up .
+<e> use <d> easy <d> positive </s> start up <d> quick <d> positive </s> </e>
+I 've lived with the crashes and slow operation and restarts .
+<e> operation <d> slow <d> negative </s> </e>
+USB3 Peripherals are noticably less expensive than the ThunderBolt ones .
+<e> USB3 Peripherals <d> less expensive <d> positive </s> </e>
+It 's fast , light , and is perfect for media editing , which is mostly why I bought it in the first place .
+<e> media editing <d> perfect <d> positive </s> </e>
+The battery lasts as advertised ( give or take 15-20 minutes ) , and the entire user experience is very elegant .
+<e> user experience <d> elegant <d> positive </s> </e>
+Thanks for the fast shipment and great price .
+<e> shipment <d> fast <d> positive </s> price <d> great <d> positive </s> </e>
+! Excellent performance , usability , presentation and time response .
+<e> performance <d> Excellent <d> positive </s> usability <d> Excellent <d> positive </s> presentation <d> Excellent <d> positive </s> time response <d> Excellent <d> positive </s> </e>
+The smaller size was a bonus because of space restrictions .
+<e> size <d> smaller <d> positive </s> size <d> bonus <d> positive </s> </e>
+I blame the Mac OS .
+<e> Mac OS <d> blame <d> negative </s> </e>
+I like the operating system .
+<e> operating system <d> like <d> positive </s> </e>
+I love the form factor .
+<e> form factor <d> love <d> positive </s> </e>
+It 's fast at loading the internet .
+<e> loading the internet <d> fast <d> positive </s> </e>
+So much faster and sleeker looking .
+<e> looking <d> faster <d> positive </s> looking <d> sleeker <d> positive </s> </e>
+Unfortunately , it runs XP and Microsoft is dropping support next April .
+<e> XP <d> Unfortunately <d> neutral </s> support <d> dropping <d> negative </s> </e>
+First off , I really do like my MBP ... once used to the OS it is pretty easy to get around , and the overall build is great ... eg the keyboard is one of the best to type on .
+<e> OS <d> like <d> positive </s> OS <d> easy <d> positive </s> overall build <d> great <d> positive </s> keyboard <d> best <d> positive </s> </e>
+It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit .
+<e> construction <d> solid <d> positive </s> </e>
+Very nice unibody construction .
+<e> unibody construction <d> nice <d> positive </s> </e>
+This Macbook Pro is fast , powerful , and runs super quiet and cool .
+<e> runs <d> quiet <d> positive </s> runs <d> cool <d> positive </s> </e>
+It 's ok but does n't have a disk drive which I did n't know until after I bought it .
+<e> disk drive <d> does n't have <d> neutral </s> </e>
+There is no HDMI receptacle , nor is there an SD card slot located anywhere on the device .
+<e> HDMI receptacle <d> no <d> neutral </s> SD card slot <d> nor <d> neutral </s> </e>
+It came in brand new and works perfectly .
+<e> works <d> perfectly <d> positive </s> </e>
+It should n't happen like that , I do n't have any design app open or anything .
+<e> design app <d> do n't have <d> neutral </s> </e>
+MY TRACKPAD IS NOT WORKING .
+<e> TRACKPAD <d> NOT WORKING <d> negative </s> </e>
+It looks and feels solid , with a flawless finish .
+<e> looks <d> solid <d> positive </s> feels <d> solid <d> positive </s> finish <d> flawless <d> positive </s> </e>
+Price was higher when purchased on MAC when compared to price showing on PC when I bought this product .
+<e> Price <d> higher <d> negative </s> </e>
+Then the system would many times not power down without a forced power-off .
+<e> system <d> not power down <d> negative </s> </e>
+The configuration is perfect for my needs .
+<e> configuration <d> perfect <d> positive </s> </e>
+and the speakers is the worst ever .
+<e> speakers <d> worst <d> negative </s> </e>
+Its the best , its got the looks , super easy to use and love all you can do with the trackpad ! ..
+<e> use <d> easy <d> positive </s> trackpad <d> love <d> positive </s> </e>
+Web surfuring is smooth and seamless .
+<e> Web surfuring <d> smooth <d> positive </s> Web surfuring <d> seamless <d> positive </s> </e>
+I 'm overall pleased with the interface and the portability of this product .
+<e> interface <d> pleased <d> positive </s> portability <d> pleased <d> positive </s> </e>
+This item is a beautiful piece , it works well , it is easy to carry and handle .
+<e> works <d> well <d> positive </s> carry <d> easy <d> positive </s> handle <d> easy <d> positive </s> </e>
+It was also suffering from hardware ( keyboard ) issues , relatively slow performance and shortening battery lifetime .
+<e> performance <d> slow <d> negative </s> battery lifetime <d> shortening <d> negative </s> </e>
+Runs good and does the job , ca n't complain about that !
+<e> Runs <d> good <d> positive </s> </e>
+It 's silent and has a very small footprint on my desk .
+<e> footprint <d> small <d> positive </s> </e>
+The exterior is absolutely gorgeous .
+<e> exterior <d> gorgeous <d> positive </s> </e>
+It has a very high performance , just for what I needed for .
+<e> performance <d> high <d> positive </s> </e>
+Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset .
+<e> design <d> defective <d> neutral </s> intel 4000 graphics chipset <d> defective <d> neutral </s> </e>
+I just bought the new MacBook Pro , the 13 '' model , and I ca n't believe Apple keeps making the same mistake with regard to USB ports .
+<e> USB ports <d> mistake <d> negative </s> </e>
+It is the perfect size and speed for me .
+<e> size <d> perfect <d> positive </s> speed <d> perfect <d> positive </s> </e>
+THE CUSTOMER SERVICE IS TERRIFIC ! !
+<e> CUSTOMER SERVICE <d> TERRIFIC <d> positive </s> </e>
+My last laptop was a 17 '' ASUS gaming machine , which performed admirably , but having since built my own desktop and really settling into the college life , I found myself wanting something smaller and less cumbersome , not to mention that the ASUS had been slowly developing problems ever since I bought it about 4 years ago .
+<e> performed <d> admirably <d> positive </s> </e>
+However , it did not have any scratches , ZERO battery cycle count ( pretty surprised ) , and all the hardware seemed to be working perfectly .
+<e> battery cycle count <d> ZERO <d> positive </s> battery cycle count <d> surprised <d> positive </s> hardware <d> perfectly <d> positive </s> </e>
+And as for all the fancy finger swipes -- I just gave up and attached a mouse .
+<e> finger swipes <d> fancy <d> negative </s> </e>
+I needed a laptop with big storage , a nice screen and fast so I can photoshop without any problem .
+<e> storage <d> big <d> neutral </s> screen <d> nice <d> neutral </s> </e>
+I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $ 400 old HP laptop .
+<e> Mac OS <d> like <d> positive </s> speaker quality <d> lacking <d> negative </s> </e>
+Shipped very quickly and safely .
+<e> Shipped <d> quickly <d> positive </s> Shipped <d> safely <d> positive </s> </e>
+The thunderbolt port is awesome !
+<e> thunderbolt port <d> awesome <d> positive </s> </e>
+The performance is definitely superior to any computer I 've ever put my hands on .
+<e> performance <d> superior <d> positive </s> </e>
+It 's great for streaming video and other entertainment uses .
+<e> streaming video <d> great <d> positive </s> entertainment uses <d> great <d> positive </s> </e>
+I like the design and its features but there are somethings I think needs to be improved .
+<e> design <d> like <d> positive </s> features <d> needs to be improved <d> positive </s> </e>
+There were small problems with Mac office .
+<e> Mac office <d> problems <d> negative </s> </e>
+I ordered my 2012 mac mini after being disappointed with spec of the new 27 '' Imacs .
+<e> spec <d> disappointed <d> negative </s> </e>
+Its fast , easy to use and it looks great .
+<e> use <d> easy <d> positive </s> looks <d> great <d> positive </s> </e>
+Performance is much much better on the Pro , especially if you install an SSD on it .
+<e> Performance <d> better <d> positive </s> SSD <d> better <d> positive </s> </e>
+Note , however , that any existing MagSafe accessories you have will not work with the MagSafe 2 connection .
+<e> MagSafe accessories <d> not work <d> neutral </s> MagSafe 2 connection <d> not work <d> negative </s> </e>
+The only thing I dislike is the touchpad , alot of the times its unresponsive and does things I dont want it too , I would recommend using a mouse with it .
+<e> touchpad <d> dislike <d> negative </s> touchpad <d> unresponsive <d> negative </s> mouse <d> recommend <d> neutral </s> </e>
+The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet , actually the fans are n't audible unlike my old pc
+<e> runs <d> quiet <d> positive </s> fans <d> are n't audible <d> positive </s> </e>
+I thought the transition would be difficult at best and would take some time to fully familiarize myself with the new Mac ecosystem .
+<e> Mac ecosystem <d> take some time <d> neutral </s> </e>
+It 's absolutely wonderful and worth the price !
+<e> price <d> wonderful <d> positive </s> price <d> worth <d> positive </s> </e>
+I am please with the products ease of use ; out of the box ready ; appearance and functionality .
+<e> use <d> please <d> positive </s> use <d> ease <d> positive </s> appearance <d> please <d> positive </s> appearance <d> ease <d> positive </s> functionality <d> please <d> positive </s> functionality <d> ease <d> positive </s> </e>
+Perfect for all my graphic design classes I 'm taking this year in college : - )
+<e> graphic design <d> Perfect <d> positive </s> </e>
+I will not be using that slot again .
+<e> slot <d> not be using <d> negative </s> </e>
+The OS is fast and fluid , everything is organized and it 's just beautiful .
+<e> OS <d> fast <d> positive </s> OS <d> fluid <d> positive </s> OS <d> organized <d> positive </s> OS <d> beautiful <d> positive </s> </e>
+They are simpler to use .
+<e> use <d> simpler <d> positive </s> </e>
+! so nice .. stable .. fast .. now i got my SSD !
+<e> SSD <d> nice <d> positive </s> SSD <d> stable <d> positive </s> SSD <d> fast <d> positive </s> </e>
+I love the quick start up .
+<e> start up <d> love <d> positive </s> </e>
+You just can not beat the functionality of an Apple device .
+<e> functionality <d> can not beat <d> positive </s> </e>
+Yet my mac continues to function properly .
+<e> function <d> properly <d> positive </s> </e>
+Graphics are much improved .
+<e> Graphics <d> improved <d> positive </s> </e>
+Here are the things that made me confident with my purchase : Build Quality - Seriously , you ca n't beat a unibody construction .
+<e> Build Quality <d> confident <d> positive </s> unibody construction <d> ca n't beat <d> positive </s> </e>
+It provides much more flexibility for connectivity .
+<e> flexibility for connectivity <d> more <d> positive </s> </e>
+Mac tutorials do help .
+<e> Mac tutorials <d> help <d> positive </s> </e>
+The technical support was not helpful as well .
+<e> technical support <d> not helpful <d> negative </s> </e>
+I got the new adapter and there was no change .
+<e> adapter <d> new <d> neutral </s> adapter <d> no change <d> neutral </s> </e>
+Logic board utterly fried , cried , and laid down and died .
+<e> Logic board <d> utterly fried <d> positive </s> Logic board <d> cried <d> positive </s> Logic board <d> laid down <d> positive </s> Logic board <d> died <d> positive </s> </e>
+The sound was crappy even when you turn up the volume still the same results .
+<e> sound <d> crappy <d> negative </s> volume <d> crappy <d> negative </s> </e>
+OSX Lion is a great performer..extremely fast and reliable .
+<e> OSX Lion <d> great <d> positive </s> OSX Lion <d> fast <d> positive </s> OSX Lion <d> reliable <d> positive </s> </e>
+Having heard from friends and family about how reliable a Mac product is , I never expected to have an application crash within the first month , but I did .
+<e> application <d> crash <d> negative </s> </e>
+The Macbook pro 's physical form is wonderful .
+<e> physical form <d> wonderful <d> positive </s> </e>
+The Mini 's body has n't changed since late 2010- and for a good reason .
+<e> body <d> has n't changed <d> positive </s> body <d> good <d> positive </s> </e>
+The unibody construction really does feel lot more solid than Apple 's previous laptops .
+<e> unibody construction <d> solid <d> positive </s> </e>
+3D rendering slows it down considerably .
+<e> 3D rendering <d> slows it down <d> negative </s> </e>
+fast , great screen , beautiful apps for a laptop ; priced at 1100 on the apple website ; amazon had it for 1098+ tax - plus i had a 10 % off coupon from amazon-cost me 998 plus tax- 1070- OTD !
+<e> screen <d> fast <d> positive </s> screen <d> great <d> positive </s> apps <d> beautiful <d> positive </s> </e>
+All the ports are much needed since this is my main computer .
+<e> ports <d> much needed <d> neutral </s> </e>
+The Like New condition of the iMac MC309LL/A on Amazon is at $ 900+ level only , and it is a Quad-Core 2.5 GHz CPU ( similar to the $ 799 Mini ) , with Radeon HD 6750M 512MB graphic card ( this mini is integrated Intel 4000 card ) , and it even comes with wireless Apple Keyboard and Mouse , all put together in neat and nice package .
+<e> package <d> neat <d> positive </s> package <d> nice <d> positive </s> </e>
+Put a cover on it and is a little better but that is my only complaint .
+<e> cover <d> a little better <d> neutral </s> cover <d> complaint <d> neutral </s> </e>
+Within a few hours I was using the gestures unconsciously .
+<e> gestures <d> unconsciously <d> positive </s> </e>
+This mac does come with an extender cable and I 'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac .
+<e> cable <d> nice <d> positive </s> </e>
+The 2.9ghz dual-core i7 chip really out does itself .
+<e> 2.9ghz dual-core i7 chip <d> really <d> positive </s> </e>
+It is pretty snappy and starts up in about 30 seconds which is good enough for me .
+<e> starts up <d> snappy <d> positive </s> starts up <d> good <d> positive </s> </e>
+So noise is reduced at least 50 % and the heat is much better , now it does n't feel hot but warm .
+<e> noise <d> reduced <d> positive </s> heat <d> better <d> positive </s> heat <d> does n't feel hot <d> positive </s> heat <d> warm <d> positive </s> </e>
+Not sure on Windows 8 .
+<e> Windows 8 <d> Not sure <d> neutral </s> </e>
+My one complaint is that there was no internal CD drive .
+<e> internal CD drive <d> complaint <d> negative </s> internal CD drive <d> no <d> negative </s> </e>
+This newer netbook has no hard drive or network lights .
+<e> hard drive <d> no <d> neutral </s> network lights <d> no <d> neutral </s> </e>
+Not too expense and has enough storage for most users and many ports .
+<e> storage <d> enough <d> positive </s> ports <d> enough <d> positive </s> </e>
+The audio volume is quite low and virtually unusable in a room with any background activity .
+<e> audio volume <d> low <d> negative </s> audio volume <d> unusable <d> negative </s> </e>
+It is lightweight and the perfect size to carry to class .
+<e> size <d> perfect <d> positive </s> </e>
+The MBP is beautiful has many wonderful capabilities .
+<e> capabilities <d> wonderful <d> positive </s> </e>
+I thought that it will be fine , if i do some settings .
+<e> settings <d> fine <d> neutral </s> </e>
+Runs very smoothly .
+<e> Runs <d> smoothly <d> positive </s> </e>
+Boot-up slowed significantly after all Windows updates were installed .
+<e> Boot-up <d> slowed <d> negative </s> Windows updates <d> slowed <d> negative </s> </e>
+It was important that it was powerful enough to do all of the tasks he needed on the internet , word processing , graphic design and gaming .
+<e> internet <d> powerful <d> positive </s> word processing <d> powerful <d> positive </s> graphic design <d> powerful <d> positive </s> gaming <d> powerful <d> positive </s> </e>
+I like the Mini Mac it was easy to setup and install , but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu .
+<e> setup <d> like <d> positive </s> setup <d> easy <d> positive </s> install <d> like <d> positive </s> install <d> easy <d> positive </s> </e>
+Runs real quick .
+<e> Runs <d> quick <d> positive </s> </e>
+Since the machine 's slim profile is critical to me , that was a problem .
+<e> profile <d> slim <d> negative </s> profile <d> critical <d> negative </s> </e>
+WiFi capability , disk drive and multiple USB ports to connect scale and printers was all that was required .
+<e> WiFi capability <d> required <d> positive </s> disk drive <d> required <d> positive </s> USB ports <d> required <d> positive </s> </e>
+The SD card reader is slightly recessed and upside down ( the nail slot on the card can not be accessed ) , if this was a self ejecting slot this would not be an issue , but its not .
+<e> SD card reader <d> recessed <d> negative </s> SD card reader <d> upside down <d> negative </s> nail slot on the card <d> can not be accessed <d> negative </s> slot <d> issue <d> negative </s> </e>
+Soft touch , anodized aluminum with laser cut precision and no flaws .
+<e> touch <d> Soft <d> positive </s> anodized aluminum <d> precision <d> positive </s> anodized aluminum <d> no flaws <d> positive </s> </e>
+Simple details , crafted aluminium and real glass make this laptop blow away the other plastic ridden , bulky sticker filled laptops .
+<e> aluminium <d> crafted <d> positive </s> glass <d> blow away <d> positive </s> </e>
+First of all yes this is a mac and it has that nice brushed aluminum .
+<e> aluminum <d> nice <d> positive </s> </e>
+No HDMI port .
+<e> HDMI port <d> No <d> neutral </s> </e>
+Customization on mac is impossible .
+<e> Customization <d> impossible <d> negative </s> </e>
+Plus two finger clicking as a replacement for the right click button is surprisingly intuitive .
+<e> right click button <d> surprisingly intuitive <d> neutral </s> </e>
+The SuperDrive is quiet .
+<e> SuperDrive <d> quiet <d> positive </s> </e>
+The battery was completely dead , in fact it had grown about a quarter inch thick lump on the underside .
+<e> battery <d> dead <d> negative </s> </e>
+if yo like practicality this is the laptop for you .
+<e> practicality <d> like <d> positive </s> </e>
+The OS is great .
+<e> OS <d> great <d> positive </s> </e>
+CONS : Price is a bit ridiculous , kinda heavy .
+<e> Price <d> ridiculous <d> negative </s> Price <d> heavy <d> negative </s> </e>
+Which it did not have , only 3 USB 2 ports .
+<e> USB 2 ports <d> not have <d> neutral </s> </e>
+No startup disk was not included but that may be my fault .
+<e> startup disk <d> No <d> neutral </s> startup disk <d> not included <d> neutral </s> startup disk <d> fault <d> neutral </s> </e>
+It is very fast and has everything that I need except for a word program .
+<e> word program <d> except for <d> negative </s> </e>
+Needs a CD/DVD drive and a bigger power switch .
+<e> power switch <d> bigger <d> negative </s> </e>
+My laptop with Windows 7 crashed and I did not want Windows 8 .
+<e> Windows 7 <d> crashed <d> negative </s> Windows 8 <d> not want <d> negative </s> </e>
+Easy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi .
+<e> install <d> Easy <d> positive </s> configure for ADSl cable or wifi <d> easy <d> positive </s> </e>
+The speakers could have been better but it was n't a deal breaker ... this is a great little laptop ... love it !
+<e> speakers <d> better <d> positive </s> </e>
+Nice packing .
+<e> packing <d> Nice <d> positive </s> </e>
+I switched to this because I wanted something different , even though I miss windows .
+<e> windows <d> miss <d> positive </s> </e>
+Apple no longer includes iDVD with the computer and furthermore , Apple does n't even offer it anymore !
+<e> iDVD <d> no longer includes <d> negative </s> </e>
+I also wanted Windows 7 , which this one has .
+<e> Windows 7 <d> wanted <d> positive </s> </e>
+At first , I feel a little bit uncomfortable in using the Mac system .
+<e> Mac system <d> uncomfortable <d> negative </s> </e>
+It just works out of the box and you have a lot of cool software included with the OS .
+<e> works <d> out of the box <d> positive </s> software <d> cool <d> positive </s> OS <d> cool <d> neutral </s> </e>
+its as advertised on here ... .. it works great and is not a waste of money !
+<e> works <d> great <d> positive </s> </e>
+Premium price for the OS more than anything else .
+<e> price <d> Premium <d> positive </s> OS <d> Premium <d> neutral </s> </e>
+I was a little concerned about the touch pad based on reviews , but I 've found it fine to work with .
+<e> touch pad <d> concerned <d> positive </s> touch pad <d> fine <d> positive </s> </e>
+I bought this Mac book pro along with a new 27 '' iMac and while they are still light years more reliable than a PC I have noticed a decline in the reliability of my Mac computers .
+<e> reliability <d> decline <d> positive </s> </e>
+The sound as mentioned earlier is n't the best , but it can be solved with headphones .
+<e> sound <d> is n't the best <d> positive </s> </e>
+The track pad is a bit squirrely at times- sometimes too sensitive , and sometimes a bit unresponsive , but it 's usable .
+<e> track pad <d> squirrely <d> positive </s> track pad <d> sensitive <d> positive </s> track pad <d> unresponsive <d> positive </s> track pad <d> usable <d> positive </s> </e>
+However , the experience was great since the OS does not become unstable and the application will simply shutdown and reopen .
+<e> OS <d> great <d> positive </s> OS <d> not become unstable <d> positive </s> </e>
+The battery is not as shown in the product photos .
+<e> battery <d> not as shown <d> negative </s> </e>
+Shipping was quick and product described was the product sent and so much more ...
+<e> Shipping <d> quick <d> positive </s> </e>
+the retina display display make pictures i took years ago jaw dropping .
+<e> retina display display <d> dropping <d> positive </s> </e>
+The Mac Mini is probably the simplest example of compact computing out there .
+<e> compact computing <d> simplest <d> positive </s> </e>
+Additionally , there is barely a ventilation system in the computer , and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot , and in fact impossible to keep on lap .
+<e> ventilation system <d> barely <d> negative </s> ventilation system <d> hot <d> negative </s> watching videos <d> simple <d> neutral </s> playing steam games <d> simple <d> neutral </s> </e>
+Chatting with Acer support , I was advised the problem was corrupted operating system files .
+<e> operating system files <d> corrupted <d> neutral </s> </e>
+It 's been a couple weeks since the purchase and I 'm struggle with finding the correct keys ( but that was expected ) .
+<e> keys <d> struggle <d> neutral </s> </e>
+Many people complain about the new OS , and it 's urgent for Apple to fix it asap !
+<e> OS <d> complain <d> negative </s> </e>
+Now that I have upgraded to Lion I am much happier about MAC OS and have just bought an iMac for office .
+<e> Lion <d> upgraded <d> positive </s> MAC OS <d> happier <d> positive </s> </e>
+User upgradeable RAM and HDD .
+<e> RAM <d> upgradeable <d> positive </s> HDD <d> upgradeable <d> positive </s> </e>
+But I wanted the Pro for the CD/DVD player .
+<e> CD/DVD player <d> wanted <d> positive </s> </e>
+The RAM memory is good but should have splurged for 8Mb instead of 4Mb .
+<e> RAM memory <d> good <d> positive </s> </e>
+I was a little worry at first because I do n't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows .
+<e> os.x <d> worry <d> neutral </s> </e>
+With the softwares supporting the use of other OS makes it much better .
+<e> softwares <d> better <d> neutral </s> OS <d> better <d> neutral </s> </e>
+I was considering buying the Air , but in reality , this one has a more powerful performance and seems much more convenient , even though it 's about .20 inch thicker and 2 lbs heavier .
+<e> performance <d> powerful <d> positive </s> </e>
+At home and the office it gets plugged into an external 24 '' LCD screen , so built in screen size is not terribly important .
+<e> built in screen size <d> not terribly important <d> neutral </s> </e>
+Just beware no DVD slot so when I went to install software I had on CD I could n't .
+<e> DVD slot <d> no <d> neutral </s> </e>
+No Cd Rom in the new version there 's no way I 'm spending that kind of money on something has less features than the older version .
+<e> Cd Rom <d> No <d> neutral </s> features <d> less <d> negative </s> </e>
+the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer
+<e> volume <d> low <d> negative </s> volume <d> hate <d> negative </s> </e>
+and its not hard to accidentally bang it against something so i recommend getting a case to protect it .
+<e> case <d> recommend <d> neutral </s> </e>
+I got this at an amazing price from Amazon and it arrived just in time .
+<e> price <d> amazing <d> positive </s> </e>
+Every time I log into the system after a few hours , there is this endlessly frustrating process that I have to go through .
+<e> log into the system <d> frustrating <d> negative </s> </e>
+Put a SSD and use a 21 '' LED screen , this set up is silky smooth !
+<e> set up <d> silky smooth <d> positive </s> </e>
+The case is now slightly larger than the previous generation , but the lack of an external power supply justifies the small increase in size .
+<e> case <d> larger <d> negative </s> external power supply <d> lack <d> neutral </s> size <d> increase <d> positive </s> </e>
+I had to buy a wireless mouse to go with it , as I am old school and hate the pad , but knew that before I bought it , now it works great , need to get adjusted to the key board , as I am used to a bigger one and pounding .
+<e> pad <d> hate <d> negative </s> works <d> great <d> positive </s> </e>
+Has all the other features I wanted including a VGA port , HDMI , ethernet and 3 USB ports .
+<e> features <d> wanted <d> positive </s> VGA port <d> wanted <d> neutral </s> HDMI <d> wanted <d> neutral </s> ethernet <d> wanted <d> neutral </s> USB ports <d> wanted <d> neutral </s> </e>
+The only thing I dislike about this laptop are the rubber pads found on the bottom of the computer for grip .
+<e> rubber pads <d> dislike <d> negative </s> </e>
+It 's a decent computer for the price and hopefully it will last a long time .
+<e> price <d> decent <d> neutral </s> </e>
+I was really happy because it is a much better price on amazon.com than it was in the Mac store .
+<e> price <d> happy <d> positive </s> price <d> better <d> positive </s> </e>
+The nicest part is the low heat output and ultra quiet operation .
+<e> heat output <d> nicest <d> positive </s> heat output <d> low <d> positive </s> operation <d> quiet <d> positive </s> </e>
+this Mac Mini does not have a built-in mic , and it would seem that its Mac OS 10.9 does not handle external microphones properly .
+<e> built-in mic <d> not have <d> neutral </s> Mac OS 10.9 <d> not handle <d> negative </s> </e>
+A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC .
+<e> features <d> lot of <d> neutral </s> shortcuts <d> lot of <d> neutral </s> </e>
+Was n't sure if I was going to like it much less love it so I went to a local best buy and played around with the IOS system on a Mac Pro and it was totally unique and different .
+<e> IOS system <d> unique <d> positive </s> IOS system <d> different <d> positive </s> </e>
+air has higher resolution but the fonts are small .
+<e> resolution <d> higher <d> positive </s> fonts <d> small <d> negative </s> </e>
+working with Mac is so much easier , so many cool features .
+<e> working <d> easier <d> positive </s> features <d> cool <d> positive </s> </e>
+I like the brightness and adjustments .
+<e> brightness <d> like <d> positive </s> adjustments <d> like <d> positive </s> </e>
+I only wish this mac had a CD/DVD player built in .
+<e> CD/DVD player <d> wish <d> neutral </s> </e>
+The only thing I miss is that my old Alienware laptop had backlit keys .
+<e> backlit keys <d> miss <d> negative </s> </e>
+So happy with this purchase , I just wish it came with Microsoft Word .
+<e> Microsoft Word <d> wish <d> neutral </s> </e>
+It has enough memory and speed to run my business with all the flexibility that comes with a laptop .
+<e> memory <d> enough <d> positive </s> speed <d> enough <d> positive </s> </e>
+The battery life is excellent , the display is excellent , and downloading apps is a breeze .
+<e> battery life <d> excellent <d> positive </s> display <d> excellent <d> positive </s> downloading apps <d> breeze <d> positive </s> </e>
+The screen , the software and the smoothness of the operating system .
+<e> operating system <d> smoothness <d> positive </s> </e>
+But with this laptop , the bass is very weak and the sound comes out sounding tinny .
+<e> bass <d> weak <d> negative </s> sound <d> tinny <d> negative </s> </e>
+The built quality is really good , I was so Happy and excited about this Product .
+<e> built quality <d> good <d> positive </s> built quality <d> Happy <d> positive </s> built quality <d> excited <d> positive </s> </e>
+I am loving the fast performance also .
+<e> performance <d> loving <d> positive </s> performance <d> fast <d> positive </s> </e>
+Further , this Mac Mini has a sloppy Bluetooth interface ( courtesy of the Mac OS ) and the range is poor .
+<e> Bluetooth interface <d> sloppy <d> negative </s> Mac OS <d> courtesy <d> negative </s> range <d> poor <d> negative </s> </e>
+My only gripe would be the need to add more RAM .
+<e> RAM <d> gripe <d> negative </s> </e>
+Fine if you have a touch screen .
+<e> touch screen <d> Fine <d> neutral </s> </e>
+This by far beats any computer out on the market today built well , battery life AMAZING .
+<e> built <d> well <d> positive </s> battery life <d> AMAZING <d> positive </s> </e>
+The OS is easy , and offers all kinds of surprises .
+<e> OS <d> easy <d> positive </s> OS <d> surprises <d> positive </s> </e>
+A veryimportant feature is Firewire 800 which in my experience works better then USB3 ( in PC enabled with USB3 ) I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7 .
+<e> Firewire 800 <d> veryimportant <d> positive </s> Firewire 800 <d> better <d> positive </s> MAC OS <d> inferior <d> negative </s> </e>
+I like iTunes , the apparent security , the Mini form factor , all the nice graphics stuff .
+<e> iTunes <d> like <d> positive </s> security <d> apparent <d> positive </s> graphics stuff <d> nice <d> positive </s> </e>
+After replacing the spinning hard disk with an ssd drive , my mac is just flying .
+<e> ssd drive <d> flying <d> positive </s> </e>
+I know some people complained about HDMI issues but they released a firmware patch to address that issue .
+<e> HDMI <d> complained <d> neutral </s> </e>
+With the needs of a professional photographer I generally need to keep up with the best specs .
+<e> specs <d> best <d> neutral </s> </e>
+packing and everything was perfect
+<e> packing <d> perfect <d> positive </s> </e>
+I called Toshiba where I gave them the serial number and they informed me that they were having issues with the mother boards .
+<e> mother boards <d> issues <d> neutral </s> </e>
+I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty , related to the graphics card .
+<e> Mother Board <d> faulty <d> negative </s> graphics card <d> faulty <d> negative </s> </e>
+It also comes with 4G of RAM but if you 're like me you want to max that out so I immediately put 8G of RAM in her and I 've never used a computer that performs better .
+<e> performs <d> better <d> positive </s> </e>
+This computer is also awesome for my sons virtual home schooling .
+<e> virtual home schooling <d> awesome <d> positive </s> </e>
+Cost is more as compared to other brands .
+<e> Cost <d> more <d> negative </s> </e>
+also ... - excellent operating system -- size and weight for optimal mobility -- excellent durability of the battery -- the functions provided by the trackpad is unmatched by any other brand-
+<e> operating system <d> excellent <d> positive </s> size <d> excellent <d> positive </s> weight <d> excellent <d> positive </s> mobility <d> optimal <d> positive </s> durability of the battery <d> excellent <d> positive </s> functions provided by the trackpad <d> unmatched <d> positive </s> </e>
+This hardware seems to be better than the iMac in that it is n't $ 1400 and smaller .
+<e> hardware <d> better <d> positive </s> </e>
+I 've had it for about 2 months now and found no issues with software or updates .
+<e> software <d> no issues <d> neutral </s> updates <d> no issues <d> neutral </s> </e>
+the latest version does not have a disc drive .
+<e> disc drive <d> not have <d> neutral </s> </e>
+Screen - although some people might complain about low res which I think is ridiculous .
+<e> Screen <d> complain <d> positive </s> Screen <d> ridiculous <d> positive </s> res <d> low <d> positive </s> </e>

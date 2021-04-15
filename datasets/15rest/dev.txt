@@ -1,0 +1,296 @@
+The food is very average ... the Thai fusion stuff is a bit too sweet , every thing they serve is too sweet here .
+<e> food <d> average <d> negative </s> Thai fusion stuff <d> too sweet <d> negative </s> </e>
+The decor is night tho ... but they REALLY need to clean that vent in the ceiling ... its quite un-appetizing , and kills your effort to make this place look sleek and modern .
+<e> decor <d> night <d> positive </s> vent <d> un-appetizing <d> negative </s> place <d> sleek <d> negative </s> place <d> modern <d> negative </s> </e>
+The spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share !
+<e> spicy tuna roll <d> good <d> positive </s> rock shrimp tempura <d> awesome <d> positive </s> </e>
+we love th pink pony .
+<e> pink pony <d> love <d> positive </s> </e>
+THe perfect spot .
+<e> spot <d> perfect <d> positive </s> </e>
+Ambiance relaxed and stylish .
+<e> Ambiance <d> relaxed <d> positive </s> Ambiance <d> stylish <d> positive </s> </e>
+however , it 's the service that leaves a bad taste in my mouth .
+<e> service <d> bad taste <d> negative </s> </e>
+i happen to have a policy that goes along with a little bit of self-respect , which includes not letting a waiter intimidate me , i.e . make me feel bad asking for trivialities like water , or the check .
+<e> waiter <d> bad <d> negative </s> </e>
+I tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose .
+<e> sea urchin <d> heavenly <d> positive </s> </e>
+The sushi seemed pretty fresh and was adequately proportioned .
+<e> sushi <d> fresh <d> positive </s> sushi <d> proportioned <d> positive </s> </e>
+The rice to fish ration was also good -- they did n't try to overpack the rice .
+<e> rice to fish ration <d> good <d> positive </s> </e>
+The food was well prepared and the service impecable .
+<e> food <d> well prepared <d> positive </s> service <d> impecable <d> positive </s> </e>
+The Prix Fixe menu is worth every penny and you get more than enough ( both in quantity AND quality ) .
+<e> Prix Fixe menu <d> worth <d> positive </s> </e>
+The kitchen however , is almost always slow .
+<e> kitchen <d> slow <d> negative </s> </e>
+Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening .
+<e> service <d> great <d> positive </s> food <d> great <d> positive </s> </e>
+The food was average to above-average ; the French Onion soup filling yet not overly impressive , and the desserts not brilliant in any way .
+<e> food <d> average to above-average <d> positive </s> French Onion soup <d> not overly impressive <d> positive </s> desserts <d> not brilliant <d> negative </s> </e>
+This place is the most Japanese it can ever get .
+<e> place <d> Japanese <d> positive </s> </e>
+Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .
+<e> Leon <d> casual <d> positive </s> Leon <d> hip <d> positive </s> French bistro fare <d> well prepared <d> positive </s> specials <d> good <d> positive </s> atmosphere <d> warm <d> positive </s> atmosphere <d> lively <d> positive </s> </e>
+The food was bland oily .
+<e> food <d> bland oily <d> negative </s> </e>
+I went there for lunch and it was not as good as I expected from the reviews I read .
+<e> lunch <d> not as good as I expected <d> negative </s> </e>
+The place is small and cramped but the food is fantastic .
+<e> place <d> small <d> negative </s> place <d> cramped <d> negative </s> food <d> fantastic <d> positive </s> </e>
+those rolls were big , but not good and sashimi was n't fresh .
+<e> rolls <d> big <d> negative </s> rolls <d> not good <d> negative </s> sashimi <d> was n't fresh <d> negative </s> </e>
+Admittedly some nights inside the restaurant were rather warm , but the open kitchen is part of the charm .
+<e> restaurant <d> warm <d> negative </s> open kitchen <d> charm <d> positive </s> </e>
+Great wine selection , Gigondas is worth the price , and the house champagne is a great value .
+<e> wine selection <d> Great <d> positive </s> Gigondas <d> worth the price <d> positive </s> house champagne <d> great value <d> positive </s> </e>
+Have recommended the place to friends , always gets good response .
+<e> place <d> recommended <d> positive </s> </e>
+The exotic food is beautifully presented and is a delight in delicious combinations .
+<e> exotic food <d> beautifully presented <d> positive </s> exotic food <d> delight <d> positive </s> </e>
+Great service , great food .
+<e> service <d> Great <d> positive </s> food <d> great <d> positive </s> </e>
+Two complaints -- their appetizer selection stinks , it would be nice to get some mozzarella sticks on the menu .
+<e> appetizer selection <d> complaints <d> negative </s> </e>
+By far the best salad I have had in a fast food restaurant .
+<e> salad <d> best <d> positive </s> </e>
+To sum it up : Service varies from good to mediorce , depending on which waiter you get ; generally it is just average Ok .
+<e> Service <d> varies <d> neutral </s> </e>
+If we were to move from the upper east side , we would genuinely miss this restaurant .
+<e> restaurant <d> miss <d> positive </s> </e>
+The restaurant is cute but not upscale .
+<e> restaurant <d> cute <d> neutral </s> restaurant <d> not upscale <d> neutral </s> </e>
+The bagel was huge .
+<e> bagel <d> huge <d> positive </s> </e>
+Other guests enjoyed pizza , santa fe chopped salad and fish and chips .
+<e> pizza <d> enjoyed <d> positive </s> santa fe chopped salad <d> enjoyed <d> positive </s> fish and chips <d> enjoyed <d> positive </s> </e>
+All the staff is absolutely professional ! !
+<e> staff <d> professional <d> positive </s> </e>
+Their pad penang is delicious and everything else is fantastic .
+<e> pad penang <d> delicious <d> positive </s> </e>
+The spicy Tuna roll is huge and probably the best that I 've had at this price range .
+<e> spicy Tuna roll <d> huge <d> positive </s> spicy Tuna roll <d> best <d> positive </s> </e>
+We concluded with tiramisu chocolate cake , both were delicious .
+<e> tiramisu chocolate cake <d> delicious <d> positive </s> </e>
+And evaluated on those terms Pastis is simply wonderful .
+<e> Pastis <d> wonderful <d> positive </s> </e>
+My friend got the mushroom pizza which tasted better .
+<e> mushroom pizza <d> better <d> positive </s> </e>
+Kind of a small place but I guess if they are not too busy might be able to fit a group or kids .
+<e> place <d> small <d> neutral </s> </e>
+I 'm still mad that i had to pay for lousy food .
+<e> food <d> lousy <d> negative </s> </e>
+I like the ambience , it 's very dark and original .
+<e> ambience <d> like <d> positive </s> ambience <d> dark <d> positive </s> ambience <d> original <d> positive </s> </e>
+The sushi is amazing ! ! !
+<e> sushi <d> amazing <d> positive </s> </e>
+However , I think this place is a good hang out spot .
+<e> place <d> good <d> positive </s> </e>
+My Girlfriend and I stumbled onto this hopping place the other night and had a great time !
+<e> place <d> hopping <d> positive </s> place <d> great time <d> positive </s> </e>
+THe Pizza and wine were excellent -- the service too -- but what really MADE this place was the backyard dining area .
+<e> Pizza <d> excellent <d> positive </s> wine <d> excellent <d> positive </s> service <d> excellent <d> positive </s> </e>
+The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .
+<e> tables <d> crammed <d> negative </s> tables <d> too close <d> negative </s> menu <d> typical <d> neutral </s> wine list <d> overpriced <d> negative </s> </e>
+Someone else recommended the dessert - we also left that .
+<e> dessert <d> recommended <d> negative </s> </e>
+Their tuna tartar appetizer is to die for .
+<e> tuna tartar appetizer <d> die for <d> positive </s> </e>
+The wine list is excellent .
+<e> wine list <d> excellent <d> positive </s> </e>
+And really large portions .
+<e> portions <d> large <d> positive </s> </e>
+The food was pretty tradional but it was hot and good with large portions .
+<e> food <d> tradional <d> positive </s> portions <d> large <d> positive </s> </e>
+The place is a lot of fun .
+<e> place <d> fun <d> positive </s> </e>
+Food was good not great not worth the wait or another visit
+<e> Food <d> good not great not worth the wait or another visit <d> neutral </s> </e>
+This is the BEST Shabu-Shabu Restaurant in the Try-State Area .
+<e> Shabu-Shabu Restaurant <d> BEST <d> positive </s> </e>
+Taxan delicious !
+<e> Taxan <d> delicious <d> positive </s> </e>
+The quantity is also very good , you will come out satisfied .
+<e> quantity <d> good <d> positive </s> quantity <d> satisfied <d> positive </s> </e>
+I had the best ravioli ever .
+<e> ravioli <d> best <d> positive </s> </e>
+Who has room for Cheesesticks with the best pizza in NYC !
+<e> pizza <d> best <d> positive </s> </e>
+Always great service !
+<e> service <d> great <d> positive </s> </e>
+The food is good , I ca n't lie .
+<e> food <d> good <d> positive </s> </e>
+The hostess and the waitress were incredibly rude and did everything they could to rush us out .
+<e> hostess <d> rude <d> negative </s> waitress <d> rude <d> negative </s> </e>
+I ate here a week ago and found most dishes average at best and too expensive .
+<e> dishes <d> average <d> negative </s> dishes <d> too expensive <d> negative </s> </e>
+Decor is nice though service can be spotty .
+<e> Decor <d> nice <d> positive </s> service <d> spotty <d> negative </s> </e>
+I am happy i did the food was awsome .
+<e> food <d> awsome <d> positive </s> </e>
+and yes Dal Bukhara is so dam good and so are all the kababs .
+<e> Dal Bukhara <d> good <d> positive </s> kababs <d> good <d> positive </s> </e>
+Quite frankly , this is some of the worst sushi I have ever tried .
+<e> sushi <d> worst <d> negative </s> </e>
+The dinner was ok , nothing I would have again .
+<e> dinner <d> ok <d> negative </s> </e>
+Try the Pad Thai , it 's fabulous and their prices are so cheap !
+<e> Pad Thai <d> Try <d> positive </s> Pad Thai <d> fabulous <d> positive </s> Pad Thai <d> cheap <d> positive </s> </e>
+Not a great place for family or general dining .
+<e> place <d> Not a great <d> negative </s> </e>
+The service is good and ambience is good for a date or group outing .
+<e> service <d> good <d> positive </s> ambience <d> good <d> positive </s> </e>
+I recommend the jelly fish , drunken chicken and the soupy dumplings , certainly the stir fry blue crab .
+<e> jelly fish <d> recommend <d> positive </s> drunken chicken <d> recommend <d> positive </s> soupy dumplings <d> recommend <d> positive </s> stir fry blue crab <d> recommend <d> positive </s> </e>
+The food is so cheap and the waiters are nice .
+<e> food <d> cheap <d> positive </s> waiters <d> nice <d> positive </s> </e>
+Pizza here is consistently good .
+<e> Pizza <d> good <d> positive </s> </e>
+Excellent atmosphere , delicious dishes good and friendly service .
+<e> atmosphere <d> Excellent <d> positive </s> dishes <d> delicious <d> positive </s> service <d> good <d> positive </s> service <d> friendly <d> positive </s> </e>
+Everything was wonderful ; food , drinks , staff , mileau .
+<e> food <d> wonderful <d> positive </s> drinks <d> wonderful <d> positive </s> staff <d> wonderful <d> positive </s> mileau <d> wonderful <d> positive </s> </e>
+I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service .
+<e> caviar <d> delicious top grade <d> positive </s> service <d> fantastic <d> positive </s> </e>
+We ate out in the back patio , which is worth it as it 's cool and the music is hear well there .
+<e> back patio <d> worth <d> positive </s> back patio <d> cool <d> positive </s> music <d> well <d> positive </s> </e>
+Overall , excellent restaurant !
+<e> restaurant <d> excellent <d> positive </s> </e>
+The buffet had a nice selection .
+<e> buffet <d> nice <d> positive </s> </e>
+And the Tom Kha soup was pathetic .
+<e> Tom Kha soup <d> pathetic <d> negative </s> </e>
+The pesto pizza was excellent , thin-crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .
+<e> pesto pizza <d> excellent <d> positive </s> spicy Italian cheese <d> nice <d> positive </s> </e>
+We waited at the bar and had martinis that were just right .
+<e> martinis <d> right <d> positive </s> </e>
+I 'm glad I was introduced to this place and this is a rare gem in NY .
+<e> place <d> glad <d> positive </s> </e>
+Average to good Thai food , but terrible delivery .
+<e> Thai food <d> Average to good <d> positive </s> delivery <d> terrible <d> negative </s> </e>
+The food arrived 20 minutes after I called , cold and soggy .
+<e> food <d> cold <d> negative </s> food <d> soggy <d> negative </s> </e>
+An excellent service
+<e> service <d> excellent <d> positive </s> </e>
+I thanked my friend who recommended me this restaurant and will certainly recommend it to others .
+<e> restaurant <d> recommend <d> positive </s> </e>
+Always a nice crowd , but never loud .
+<e> crowd <d> nice <d> positive </s> crowd <d> never loud <d> positive </s> </e>
+The food was mediocre at best but it was the horrible service that made me vow never to go back .
+<e> food <d> mediocre <d> negative </s> service <d> horrible <d> negative </s> </e>
+Warning : You may find it difficult to dine at other Japanese restaurants after a visit to Mizu !
+<e> Mizu <d> difficult <d> positive </s> </e>
+I expected quite a bit more from such an expensive menu .
+<e> menu <d> expensive <d> negative </s> </e>
+The view is spectacular , and the food is great .
+<e> view <d> spectacular <d> positive </s> food <d> great <d> positive </s> </e>
+Wonderful strawberry daiquiries as well !
+<e> strawberry daiquiries <d> Wonderful <d> positive </s> </e>
+I really like both the scallops and the mahi mahi ( on saffron risotto yum ! ) .
+<e> scallops <d> like <d> positive </s> </e>
+Even if the food was n't this good , the garden is a great place to sit outside and relax .
+<e> food <d> was n't this good <d> positive </s> garden <d> great <d> positive </s> </e>
+Great neighborhood joint .
+<e> joint <d> Great <d> positive </s> </e>
+The dosas are skimpy , unattractive and drip with grease , and personally I 'd drink popcorn topping before I 'd eat another one of these .
+<e> dosas <d> skimpy <d> negative </s> dosas <d> unattractive <d> negative </s> </e>
+Seriously , this place kicks ass .
+<e> place <d> kicks ass <d> positive </s> </e>
+The atmosphere is unheralded , the service impecible , and the food magnificant .
+<e> atmosphere <d> unheralded <d> positive </s> service <d> impecible <d> positive </s> food <d> magnificant <d> positive </s> </e>
+The restaurant looks out over beautiful green lawns to the Hudson River and the Statue of Liberty .
+<e> restaurant <d> beautiful <d> positive </s> </e>
+Try sushimi cucumber roll .
+<e> sushimi cucumber roll <d> Try <d> positive </s> </e>
+The service is awful .
+<e> service <d> awful <d> negative </s> </e>
+This place is not worth the prices .
+<e> place <d> not worth the prices <d> negative </s> </e>
+The cream cheeses are out of this world and I love that coffee ! !
+<e> cream cheeses <d> out of this world <d> positive </s> coffee <d> love <d> positive </s> </e>
+Good , fast service .
+<e> service <d> Good <d> positive </s> service <d> fast <d> positive </s> </e>
+Great atmoshere and worth every bit .
+<e> atmoshere <d> Great <d> positive </s> </e>
+Try the Pad Thai , or sample anything on the appetizer menu ... they 're all delicious .
+<e> Pad Thai <d> Try <d> positive </s> Pad Thai <d> delicious <d> positive </s> appetizer menu <d> Try <d> positive </s> appetizer menu <d> delicious <d> positive </s> </e>
+The service was attentive , yet discreet .
+<e> service <d> attentive <d> positive </s> service <d> discreet <d> positive </s> </e>
+As a retired hipster , I can say with some degree of certainty that for the last year Lucky Strike has been the best laid-back late night in the city .
+<e> Lucky Strike <d> best <d> positive </s> </e>
+I can not imagine better Indian food in all of the city .
+<e> Indian food <d> better <d> positive </s> </e>
+The service was friendly and the atmosphere was casual .
+<e> service <d> friendly <d> positive </s> atmosphere <d> casual <d> neutral </s> </e>
+delicious bagels , especially when right out of the oven .
+<e> bagels <d> delicious <d> positive </s> </e>
+Spreads and toppings are great - though a bit pricey .
+<e> Spreads <d> great <d> negative </s> Spreads <d> pricey <d> negative </s> toppings <d> great <d> negative </s> toppings <d> pricey <d> negative </s> </e>
+Great food , great prices , great service .
+<e> food <d> Great <d> positive </s> service <d> great <d> positive </s> </e>
+it 's a perfect place to have a amazing indian food .
+<e> indian food <d> amazing <d> positive </s> </e>
+also it 's great to have dinner in a very romantic and comfortable place , the service it 's just perfect ... they 're so frendly that we never want to live the place !
+<e> place <d> romantic <d> positive </s> place <d> comfortable <d> positive </s> service <d> perfect <d> positive </s> </e>
+The lamb was tender so full of flavor , the dessert was divine ! !
+<e> lamb <d> tender <d> positive </s> dessert <d> divine <d> positive </s> </e>
+Small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .
+<e> servings for main entree <d> Small <d> negative </s> salmon <d> wasnt impressed <d> negative </s> chicken <d> good <d> positive </s> </e>
+Great food , great decor , great service .
+<e> food <d> Great <d> positive </s> decor <d> great <d> positive </s> service <d> great <d> positive </s> </e>
+A cool bar with great food , and tons of excellent beer .
+<e> bar <d> cool <d> positive </s> food <d> great <d> positive </s> beer <d> excellent <d> positive </s> </e>
+Food was very good , but not what I would consider out of this world .
+<e> Food <d> good <d> neutral </s> </e>
+I ca n't wait for summer , when they serve outside on their gigantic patio .
+<e> patio <d> gigantic <d> positive </s> </e>
+Good food .
+<e> food <d> Good <d> positive </s> </e>
+While the ambiance and atmosphere were great , the food and service could have been a lot better .
+<e> ambiance <d> great <d> positive </s> atmosphere <d> great <d> positive </s> food <d> could have been a lot better <d> negative </s> service <d> could have been a lot better <d> negative </s> </e>
+bottles of wine are cheap and good .
+<e> bottles of wine <d> cheap <d> positive </s> bottles of wine <d> good <d> positive </s> </e>
+The food is amazing , rich pastas and fresh doughy pizza .
+<e> food <d> amazing <d> positive </s> pastas <d> rich <d> positive </s> pizza <d> fresh doughy <d> positive </s> </e>
+This is an amazing place to try some roti rolls .
+<e> roti rolls <d> try <d> positive </s> </e>
+Delicate spices , onions , eggs and a kick-ass roti .
+<e> spices <d> Delicate <d> positive </s> onions <d> Delicate <d> positive </s> eggs <d> Delicate <d> positive </s> roti <d> kick-ass <d> positive </s> </e>
+The portions are HUGE , so it might be good to order three things to split ( rather than one appetizer and entree per person ) for two people .
+<e> portions <d> HUGE <d> neutral </s> </e>
+The service is good and the resturant is clean .
+<e> service <d> good <d> positive </s> resturant <d> clean <d> positive </s> </e>
+Best Taiwanese food in NY !
+<e> Taiwanese food <d> Best <d> positive </s> </e>
+Rao 's has the best service and atmosphere in NYC .
+<e> service <d> best <d> positive </s> atmosphere <d> best <d> positive </s> </e>
+Excellent dumplings served amid clean , chic decor .
+<e> dumplings <d> Excellent <d> positive </s> decor <d> clean <d> positive </s> decor <d> chic <d> positive </s> </e>
+The decor is very simple but comfortable .
+<e> decor <d> simple <d> positive </s> decor <d> comfortable <d> positive </s> </e>
+The portions are small but being that the food was so good makes up for that .
+<e> portions <d> small <d> negative </s> food <d> good <d> positive </s> </e>
+You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert .
+<e> crabmeat lasagna <d> out of this world <d> positive </s> </e>
+This dish is my favorite and I always get it when I go there and never get tired of it .
+<e> dish <d> favorite <d> positive </s> </e>
+Simply some good tasting Chinese food at incredible prices ...
+<e> Chinese food <d> good tasting <d> positive </s> </e>
+good music , great food , speedy service affordable prices .
+<e> music <d> good <d> positive </s> food <d> great <d> positive </s> service <d> speedy <d> positive </s> </e>
+I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side .
+<e> service <d> disappointed <d> negative </s> food <d> overated <d> negative </s> food <d> pricey <d> negative </s> </e>
+Baluchi 's has solid food and a nice decor at reasonable prices .
+<e> food <d> solid <d> positive </s> decor <d> nice <d> positive </s> </e>
+Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat .
+<e> service <d> good <d> positive </s> place <d> relaxing <d> positive </s> </e>
+The food is great .
+<e> food <d> great <d> positive </s> </e>
+The pizza was pretty good and huge .
+<e> pizza <d> good <d> positive </s> pizza <d> huge <d> positive </s> </e>
+La Rosa waltzes in , and I think they are doing it the best .
+<e> La Rosa <d> best <d> positive </s> </e>
+The mussels were fantastic and so was the dessert ... definitely going to be back very soon .
+<e> mussels <d> fantastic <d> positive </s> dessert <d> fantastic <d> positive </s> </e>

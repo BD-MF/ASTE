@@ -1,0 +1,456 @@
+In the shop , these MacBooks are encased in a soft rubber enclosure - so you will never know about the razor edge until you buy it , get it home , break the seal and use it ( very clever con ) .
+<e> rubber enclosure <d> soft <d> positive </s> </e>
+This laptop meets every expectation and Windows 7 is great !
+<e> Windows 7 <d> great <d> positive </s> </e>
+Also kinda loud when the fan was running .
+<e> fan <d> loud <d> negative </s> </e>
+Still under warrenty so called Toshiba , no help at all .
+<e> warrenty <d> no help <d> negative </s> </e>
+Then after 4 or so months the charger stopped working so I was forced to go out and buy new hardware just to keep this computer running .
+<e> charger <d> stopped working <d> negative </s> </e>
+It rarely works and when it does it 's incredibly slow .
+<e> works <d> rarely <d> negative </s> </e>
+I love the glass touchpad .
+<e> glass touchpad <d> love <d> positive </s> </e>
+It has a 10 hour battery life when you 're doing web browsing and word editing , making it perfect for the classroom or office , and in terms of gaming and movie playing it 'll have a battery life of just over 5 hours .
+<e> battery life <d> perfect <d> positive </s> web browsing <d> perfect <d> neutral </s> word editing <d> perfect <d> neutral </s> </e>
+The battery life seems to be very good , and have had no issues with it .
+<e> battery life <d> good <d> positive </s> battery life <d> no issues <d> positive </s> </e>
+But we had paid for bluetooth , and there was none .
+<e> bluetooth <d> none <d> negative </s> </e>
+It is always reliable , never bugged and responds well .
+<e> responds <d> well <d> positive </s> </e>
+It was slow , locked up , and also had hardware replaced after only 2 months !
+<e> hardware <d> replaced <d> negative </s> </e>
+Also , if you need to talk to a representive at Microsoft , there is a charge , which I believe is robbery , since you are charged enormous amounts for a very badly designed system , which most people would have went with XP if they could .
+<e> system <d> badly designed <d> negative </s> </e>
+Yes , a Mac is much more money than the average laptop out there , but there is no comparison in style , speed and just cool factor .
+<e> style <d> no comparison <d> positive </s> speed <d> no comparison <d> positive </s> </e>
+The keyboard feels good and I type just fine on it .
+<e> keyboard <d> good <d> positive </s> </e>
+I wish it had a webcam though , then it would be perfect !
+<e> webcam <d> wish <d> negative </s> </e>
+I play a lot of casual games online , and the touchpad is very responsive .
+<e> touchpad <d> responsive <d> positive </s> </e>
+Granted , it 's still a very new laptop but in comparison to my previous laptops and desktops , my Mac boots up noticeably quicker .
+<e> boots up <d> quicker <d> positive </s> </e>
+It has no camera but , I can always buy and install one easy .
+<e> camera <d> no <d> positive </s> </e>
+The screen is bright and the keyboard is nice ;
+<e> screen <d> bright <d> positive </s> keyboard <d> nice <d> positive </s> </e>
+High price tag , however .
+<e> price tag <d> High <d> negative </s> </e>
+This laptop is a great price and has a sleek look .
+<e> price <d> great <d> positive </s> look <d> sleek <d> positive </s> </e>
+I especially like the keyboard which has chiclet type keys .
+<e> keyboard <d> like <d> positive </s> keys <d> chiclet type <d> positive </s> </e>
+Small screen somewhat limiting but great for travel .
+<e> screen <d> Small <d> positive </s> screen <d> limiting <d> positive </s> screen <d> great <d> positive </s> </e>
+For the not so good , I got the stock screen - which is VERY glossy .
+<e> stock screen <d> glossy <d> negative </s> </e>
+The processor a AMD Semprom at 2.1 ghz is a bummer it does not have the power for HD or heavy computing .
+<e> processor <d> bummer <d> negative </s> computing <d> heavy <d> negative </s> </e>
+I bought a protector for my key pad and it works great : )
+<e> protector <d> great <d> neutral </s> </e>
+But the screen size is not that bad for email and web browsing .
+<e> screen size <d> not that bad <d> positive </s> web browsing <d> not that bad <d> neutral </s> </e>
+i use my mac all the time , i love the software , the way it takes a short time to load things , how easy it is to use and most of all how you do n't have to worry about viruses .
+<e> software <d> love <d> positive </s> software <d> easy <d> positive </s> </e>
+Suffice it to say , my MacBook Pro keeps me going with its long battery life and blazing speed .
+<e> battery life <d> long <d> positive </s> speed <d> blazing <d> positive </s> </e>
+The OS is also very user friendly , even for those that switch from a PC , with a little practice you can take full advantage of this OS !
+<e> OS <d> user friendly <d> positive </s> </e>
+the programs are esay to use and are quick to process this computer works like a charm .
+<e> programs <d> esay to use <d> positive </s> </e>
+Windows XP SP2 caused many problems on the computer , so I had to remove it .
+<e> Windows XP SP2 <d> problems <d> negative </s> </e>
+this is my second one and the same problem , bad video card unreliable overall , this will be my second time returning this laptop back to best buy .
+<e> video card <d> bad <d> negative </s> video card <d> unreliable <d> negative </s> </e>
+With awesome graphics and assuring security , it 's perfect !
+<e> graphics <d> awesome <d> positive </s> security <d> assuring <d> positive </s> </e>
+I was disappointed when I realized that the keyboard does n't light up on this model .
+<e> keyboard <d> disappointed <d> negative </s> keyboard <d> does n't light up <d> negative </s> </e>
+Since I 've had this computer I 've only used the trackpad because it is so nice and smooth .
+<e> trackpad <d> nice <d> positive </s> trackpad <d> smooth <d> positive </s> </e>
+A longer battery life would have been great - but it meets it 's spec quite easily .
+<e> battery life <d> longer <d> positive </s> spec <d> easily <d> positive </s> </e>
+Who could n't love a DVD burner , 80-gigabyte HD , and fairly new graphics chip ? As I soon discovered , though , there is a reason for which similarly-configured Sony and Toshiba machines cost more : they use higher-quality components that are faster , better-configured , and end up lasting a lot longer .
+<e> graphics chip <d> new <d> positive </s> components <d> higher-quality <d> positive </s> components <d> faster <d> positive </s> components <d> better-configured <d> positive </s> components <d> longer <d> positive </s> </e>
+I loaded windows 7 via Bootcamp and it works flawlessly !
+<e> windows 7 <d> flawlessly <d> positive </s> Bootcamp <d> flawlessly <d> positive </s> </e>
+Great Laptop for the price , works well with action pack games .
+<e> price <d> Great <d> positive </s> works <d> well <d> positive </s> action pack games <d> well <d> neutral </s> </e>
+It was heavy , bulky , and hard to carry because of the size .
+<e> size <d> heavy <d> negative </s> size <d> bulky <d> negative </s> size <d> hard <d> negative </s> </e>
+I connect a LaCie 2Big external drive via the firewire 800 interface , which is useful for Time Machine .
+<e> LaCie 2Big external drive <d> useful <d> neutral </s> firewire 800 interface <d> useful <d> positive </s> Time Machine <d> useful <d> neutral </s> </e>
+I am overall very pleased with my toshiba satellite , I like the extra features , I love the windows 7 home premium .
+<e> extra features <d> like <d> positive </s> windows 7 home premium <d> love <d> positive </s> </e>
+The keyboard is top notch .
+<e> keyboard <d> top notch <d> positive </s> </e>
+Not to mention , the battery life is absolutely amazing .
+<e> battery life <d> amazing <d> positive </s> </e>
+The macbook rarely requires a hard reboot .
+<e> hard reboot <d> rarely <d> positive </s> </e>
+From the build quality to the performance , everything about it has been sub-par from what I would have expected from Apple .
+<e> build quality <d> sub-par <d> negative </s> performance <d> sub-par <d> negative </s> </e>
+I love the dock where I can simply drop a file ontop of a particular program , and the program will simply open that file .
+<e> dock <d> love <d> positive </s> program <d> love <d> positive </s> </e>
+Waiting for the i7 was well worth it , great value for the price .
+<e> i7 <d> well worth <d> positive </s> price <d> great <d> positive </s> </e>
+Lightweight and the screen is beautiful !
+<e> screen <d> beautiful <d> positive </s> </e>
+When I called Toshiba , they would not do anything and even tried to charge me $ 35 for the phone call , even though they did n't offer any technical support .
+<e> technical support <d> did n't offer <d> negative </s> </e>
+A great computer for light home use and business use .
+<e> home use <d> light <d> positive </s> business use <d> light <d> positive </s> </e>
+Even so , I like playing online games , so it was wonderful that there is a feature where I can dualboot Windows .
+<e> feature <d> wonderful <d> positive </s> </e>
+I am first time Mac Buyer and am amazed at features and ease of use the Mac offers .
+<e> features <d> amazed <d> positive </s> use <d> ease <d> positive </s> </e>
+I guess the only good thing that came out of these were the speakers and the subwoofer .
+<e> speakers <d> good <d> positive </s> subwoofer <d> good <d> positive </s> </e>
+All for such a great price .
+<e> price <d> great <d> positive </s> </e>
+They gave me a hard time yet again , but their was a malfunction in the battery itself , it did n't die .
+<e> battery <d> malfunction <d> negative </s> </e>
+It does not keep internet signals no matter where you bring it .
+<e> internet signals <d> not keep <d> negative </s> </e>
+and the multiple page viewer ( allows you to press one button to see every separate page currently opened at the same time in one screen ) are great for those who are working non stop or just shopping online .
+<e> multiple page viewer <d> great <d> positive </s> </e>
+Keyboard good sized and easy to use .
+<e> Keyboard <d> good sized <d> positive </s> Keyboard <d> easy to use <d> positive </s> </e>
+WHEN TYPING , LETTERS AND SPACES ARE FREQUENTLY OMITTED REQUIRING THE USER TO REDO MANY WORDS AND SENTENCES .
+<e> TYPING <d> OMITTED <d> negative </s> </e>
+Although i do believe that Windows operating system may be to fault for some of the problems .
+<e> Windows operating system <d> fault <d> negative </s> </e>
+Great OS , fabulous improvements to the existing line bumping up the processor speed and adding the thunderbolt port .
+<e> OS <d> Great <d> positive </s> OS <d> fabulous <d> positive </s> processor speed <d> Great <d> positive </s> processor speed <d> fabulous <d> positive </s> thunderbolt port <d> adding <d> positive </s> </e>
+My problem was with DELL Customer Service .
+<e> DELL Customer Service <d> problem <d> negative </s> </e>
+It is easy to go from one keyboard to another .
+<e> keyboard <d> easy <d> neutral </s> </e>
+The Apple applications ( ex . iPhoto ) are fun , easy , and really cool to use ( unlike the competition ) !
+<e> Apple applications <d> fun <d> positive </s> Apple applications <d> easy <d> positive </s> Apple applications <d> cool <d> positive </s> iPhoto <d> fun <d> positive </s> iPhoto <d> easy <d> positive </s> iPhoto <d> cool <d> positive </s> </e>
+the features are great , the only thing it needs is better speakers .
+<e> features <d> great <d> positive </s> speakers <d> better <d> negative </s> </e>
+It was still working , but there was nothing on the screen .
+<e> screen <d> nothing <d> negative </s> </e>
+I bought this laptop and found its TAB is not functioning .
+<e> TAB <d> not functioning <d> negative </s> </e>
+-Called headquarters again , they report that TFT panel is broken , should be fixed by the end of the week ( week 3 ) .
+<e> TFT panel <d> broken <d> negative </s> </e>
+The much lauded combined touch pad and clicker is a nightmare .
+<e> combined touch pad and clicker <d> nightmare <d> negative </s> </e>
+This MacBook is an outstanding product with great value .
+<e> value <d> outstanding <d> positive </s> value <d> great <d> positive </s> </e>
+I BOUGHT THIS LAP TOP AND THE CHARGE TIME DOSE N'T LAST AS LONG AS THEY SAY IT WILL MORE LIKE 2 HOURS
+<e> CHARGE TIME <d> LONG <d> negative </s> </e>
+the key bindings take a little getting used to , but have loved the Macbook Pro .
+<e> key bindings <d> loved <d> negative </s> </e>
+The screen is bright and clear , the operating system is solid and friendly to a novice .
+<e> screen <d> bright <d> positive </s> screen <d> clear <d> positive </s> operating system <d> solid <d> positive </s> operating system <d> friendly <d> positive </s> </e>
+It had the full sized touch pad with 2 buttons instead of just one .
+<e> touch pad <d> full sized <d> neutral </s> </e>
+Its a good laptop for its value .
+<e> value <d> good <d> positive </s> </e>
+of course my warranty runs out next month .
+<e> warranty <d> runs out <d> neutral </s> </e>
+The battery has never worked well .
+<e> battery <d> never worked well <d> negative </s> </e>
+`` > iPhoto is probably the best program I have ever worked with : easy and convenient .
+<e> iPhoto <d> best <d> positive </s> iPhoto <d> easy <d> positive </s> iPhoto <d> convenient <d> positive </s> </e>
+The design is awesome , quality is unprecedented .
+<e> design <d> awesome <d> positive </s> quality <d> unprecedented <d> positive </s> </e>
+The Mac version of Microsoft Office is cheaper than buying the actual and works just as well .
+<e> Mac version of Microsoft Office <d> cheaper <d> positive </s> Mac version of Microsoft Office <d> as well <d> positive </s> </e>
+It 's perfect for everything and runs faster than an average pc !
+<e> runs <d> faster <d> positive </s> </e>
+Then after paying for it to be examined I was told it was same problem cited on website but I 'd have to pay anyways since it was past warrenty .
+<e> warrenty <d> past <d> negative </s> </e>
+The Macbook is also made better , my computer has never got a virus , and the laptop runs just as fast as the first day I bought it .
+<e> runs <d> fast <d> positive </s> </e>
+Overall I feel this netbook was poor quality , had poor performance , although it did have great battery life when it did work .
+<e> quality <d> poor <d> negative </s> performance <d> poor <d> negative </s> battery life <d> great <d> positive </s> </e>
+great battery life .
+<e> battery life <d> great <d> positive </s> </e>
+The real stand out on this computer is the feel of the keyboard and it 's speed .
+<e> keyboard <d> stand out <d> positive </s> speed <d> stand out <d> positive </s> </e>
+At first , the computer seemed a great deal -- seemingly high-end specs for a low , low price .
+<e> specs <d> high-end <d> positive </s> price <d> low <d> positive </s> price <d> low <d> positive </s> </e>
+It has a faster processor and more ram .
+<e> processor <d> faster <d> positive </s> ram <d> more <d> positive </s> </e>
+I will never complain about the price since I believe you get what you pay for and my MacBook Pro was worth every dollar .
+<e> price <d> never complain <d> positive </s> </e>
+I got it back again and was told the motherboard had been replaced , so I was now on the SECOND motherboard within 3 months .
+<e> motherboard <d> replaced <d> negative </s> </e>
+Memory is upgradable .
+<e> Memory <d> upgradable <d> positive </s> </e>
+Ever since I bought this laptop , so far I 've experience nothing but constant break downs of the laptop and bad customer services I received over the phone with toshiba customer services hotlines .
+<e> customer services <d> bad <d> negative </s> </e>
+But to be honest , the compatibility issues and the other little quirks make me think I ll buy a PC next time .
+<e> compatibility <d> issues <d> negative </s> </e>
+Then it ceased charging at all .
+<e> charging <d> ceased <d> negative </s> </e>
+It 's graphics are n't bad at all , for the lower end of the MacBook Pro spectrum , easily capable of running StarCraft II and other games with comparable graphics .
+<e> graphics <d> are n't bad <d> neutral </s> </e>
+The screen is bright and vivid and the keyboard is very easy to use , very important for use quick typers .
+<e> screen <d> bright <d> positive </s> screen <d> vivid <d> positive </s> keyboard <d> easy to use <d> positive </s> </e>
+The only downfall is a lot of the software I have wo n't work with Mac and iWork is not worth the price of it .
+<e> software <d> downfall <d> negative </s> software <d> not worth <d> negative </s> iWork <d> downfall <d> negative </s> iWork <d> not worth <d> negative </s> price <d> downfall <d> negative </s> price <d> not worth <d> negative </s> </e>
+3 ) Horrible customer support
+<e> customer support <d> Horrible <d> negative </s> </e>
+The big screen allows you to enjoy watching movies , pictures and etc !
+<e> screen <d> big <d> positive </s> </e>
+the headphone and mic jack are in front of touch-pad making the touch-pad hard to use when using headphones/mic , not to mention the laptop was designed for right handed person .
+<e> touch-pad <d> hard to use <d> negative </s> </e>
+For the [ $ ] price ( special offer ) this is a great laptop .
+<e> price <d> great <d> positive </s> </e>
+What I 'd like is for the laptop to run well without having to purchase additional memory .
+<e> run <d> well <d> neutral </s> </e>
+Now the screen is going darker , darker , darker .
+<e> screen <d> darker <d> negative </s> </e>
+I dislike the quality and the placement of the speakers .
+<e> speakers <d> dislike <d> negative </s> </e>
+The unibody design is edgy and durable .
+<e> unibody design <d> edgy <d> positive </s> unibody design <d> durable <d> positive </s> </e>
+But , for the cost this is a winner .
+<e> cost <d> winner <d> positive </s> </e>
+I bought it from HSN because it was `` bundled '' with extra software , but as it turns out , that software just crashes it more often ... ..
+<e> software <d> crashes <d> negative </s> </e>
+More times that not the screen pops up saying I have a bad internet connection , or the page ca n't be displayed .
+<e> internet connection <d> bad <d> negative </s> </e>
+The ease of use is wonderful .
+<e> use <d> ease <d> positive </s> use <d> wonderful <d> positive </s> </e>
+It 's still beautiful and has better color reproduction than I could ever expect from a notebook .
+<e> color reproduction <d> better <d> positive </s> </e>
+Aside from the trial software and the short battery life , lack of a webcam , its great .
+<e> battery life <d> short <d> negative </s> webcam <d> lack <d> negative </s> </e>
+also the battery is completely shot .
+<e> battery <d> completely shot <d> negative </s> </e>
+Compared to similarly spec 'd PCs , this machine is good value , well built and works easily right out of the box .
+<e> value <d> good <d> positive </s> built <d> well <d> positive </s> works <d> easily <d> positive </s> </e>
+First , you ll discover that the word processing program known as Appleworks rarely translates perfectly on anyone else s computer , if it translates at all .
+<e> word processing program <d> rarely translates perfectly <d> negative </s> Appleworks <d> rarely translates perfectly <d> negative </s> </e>
+Windows Vista makes this computer almost unusable for online service .
+<e> Windows Vista <d> unusable <d> negative </s> online service <d> unusable <d> negative </s> </e>
+Now when I order I did not go full scale for the webcam or full keyboard I wanted something for basics of being easy to carry when I use crutchs or wheelchair and with a backpack laptop bag .
+<e> carry <d> easy <d> positive </s> </e>
+the mouse pad and buttons are the worst i 've ever seen .
+<e> mouse pad <d> worst <d> negative </s> buttons <d> worst <d> negative </s> </e>
+Awesome graphics !
+<e> graphics <d> Awesome <d> positive </s> </e>
+It really is perfect for work and play .
+<e> work <d> perfect <d> positive </s> play <d> perfect <d> positive </s> </e>
+Well , I started using Google Chrome , which is a little better , but it freezes too sometimes .
+<e> Google Chrome <d> better <d> positive </s> Google Chrome <d> freezes <d> positive </s> </e>
+My first problem was with the pre-loaded Norton Firewall/Security program .
+<e> pre-loaded Norton Firewall/Security program <d> problem <d> negative </s> </e>
+I had a USB connect but , i ca n't use it because it is not compatible .
+<e> USB connect <d> ca n't use <d> negative </s> USB connect <d> not compatible <d> negative </s> </e>
+HP is more interested in selling extended warranties ( which cost more than the netbook new ) then they are in helping or fixing .
+<e> extended warranties <d> cost more <d> negative </s> </e>
+The difference in the Apple keyboard from a PC 's keyboard took a bit of tim to get used to , but overall it 's worth it !
+<e> Apple keyboard <d> worth <d> neutral </s> </e>
+The hard drive crashed as well , and I had to buy a new power cord .
+<e> hard drive <d> crashed <d> negative </s> </e>
+My MacBook Pro works like a dream , it has never overheated , or even been slightly warm for that matter .
+<e> works <d> dream <d> positive </s> works <d> never overheated <d> positive </s> </e>
+the size of has actually help me out quite a bit by me being able to fit it in an already full backpack and to use it at a resturant where the food on the table is always so space consuming .
+<e> size <d> able to fit <d> positive </s> </e>
+True quality at a great price !
+<e> quality <d> True <d> positive </s> price <d> great <d> positive </s> </e>
+So what am I supposed to do ? The LG service center can not provide me the `` service '' when it is called the `` service center '' .
+<e> service center <d> can not provide <d> negative </s> </e>
+After doing extensive research , macconnection had the lowest price on the 15 '' MBP i5 .
+<e> price <d> lowest <d> positive </s> </e>
+I am ADDICTED to photo booth !
+<e> photo booth <d> ADDICTED <d> positive </s> </e>
+First things first , Macbook pro has many applications to make life easier , unlike the windows computers .
+<e> applications <d> many <d> positive </s> applications <d> easier <d> positive </s> </e>
+Summary : I 've had this laptop for 2 months , out of the blue the power adapter stops working .
+<e> power adapter <d> stops working <d> negative </s> </e>
+Of course , for a student , weight is always an issue .
+<e> weight <d> issue <d> neutral </s> </e>
+I was n't really as concerned about portability ( it 's a very large laptop ) but it 's not hard to move around or take on a trip which was a pleasant surprise .
+<e> portability <d> pleasant surprise <d> positive </s> </e>
+This is a nicely sized laptop with lots of processing power and long battery life .
+<e> sized <d> nicely <d> positive </s> processing power <d> lots of <d> positive </s> battery life <d> long <d> positive </s> </e>
+The mouse is a little bit different than what you 're used to though- it has one big flat panel and one full bar ( instead of two separate ones ) to click with- but you get used to it quite quickly .
+<e> mouse <d> different <d> positive </s> mouse <d> quickly <d> positive </s> </e>
+It 's also fairly easy to use the Operating System .
+<e> Operating System <d> easy <d> positive </s> </e>
+The improvements to the OS have been relatively gradual , but substantive .
+<e> OS <d> improvements <d> positive </s> OS <d> relatively gradual <d> positive </s> OS <d> substantive <d> positive </s> </e>
+Many of my classmates computers hard drives crashed .
+<e> hard drives <d> crashed <d> negative </s> </e>
+The 13 '' Macbook Pro just fits in my budget and with free shipping and no tax to CA this is the best price we can get for a great product .
+<e> budget <d> fits <d> positive </s> shipping <d> free <d> positive </s> price <d> best <d> positive </s> </e>
+After a couple of years , my battery life began to diminish but was replaced for free due to a company-wide recall of my particular battery .
+<e> battery life <d> diminish <d> positive </s> battery <d> particular <d> negative </s> </e>
+The rep did not even answer my question , I had to ask him , if he understood what I ask or if he spoke english because he did n't even try to acknowledge my question .
+<e> rep <d> did not <d> negative </s> </e>
+Even though it is much more expensive than many PC laptops , it is worth the price .
+<e> price <d> worth <d> positive </s> </e>
+ca n't reinstall with standard os cd because of proprietary hardware drivers .
+<e> standard os cd <d> ca n't reinstall <d> negative </s> </e>
+I have been very pleased with the performance of this laptop .
+<e> performance <d> pleased <d> positive </s> </e>
+THEN , one month after the warranty expired , the replacement charger went .
+<e> warranty <d> expired <d> neutral </s> </e>
+company provides UPS shipping , fast , great !
+<e> shipping <d> fast <d> positive </s> shipping <d> great <d> positive </s> </e>
+It is easy to use , has great screen quality , and every so light weight .
+<e> use <d> easy <d> positive </s> screen quality <d> great <d> positive </s> </e>
+The shop will definitely push the problem to the service center .
+<e> service center <d> problem <d> neutral </s> </e>
+This laptop looks great on the surface : 17 '' inch screen , good price-point , nice appearance , boots up quickly , runs fast etc .
+<e> price-point <d> great <d> positive </s> price-point <d> good <d> positive </s> appearance <d> nice <d> positive </s> boots up <d> quickly <d> positive </s> runs <d> fast <d> positive </s> </e>
+Disappointing for such a lovely screen and at a reasonable price
+<e> screen <d> Disappointing <d> positive </s> screen <d> lovely <d> positive </s> price <d> reasonable <d> positive </s> </e>
+OS X is solid with lots of innovations such as quicklook which save heaps of time .
+<e> OS X <d> solid <d> positive </s> OS X <d> innovations <d> positive </s> quicklook <d> save heaps of time <d> positive </s> </e>
+But other than that I am blown away by all the features this laptop offers .
+<e> features <d> blown away <d> positive </s> </e>
+We researched and found the best price at MacConnection .
+<e> price <d> best <d> positive </s> </e>
+I use a cooling pad but it does n't help .
+<e> cooling pad <d> does n't help <d> negative </s> </e>
+No , tey do n't even support their own bios and it `` could be a problem with the bios '' How can a company that makes a fairly decent product get away with such insanity ? ? ! !
+<e> bios <d> do n't even support <d> negative </s> bios <d> problem <d> negative </s> </e>
+But the quality , in general was less than the worth of the cheap laptop .
+<e> quality <d> less than the worth <d> negative </s> </e>
+They claim call center is still down .
+<e> call center <d> down <d> negative </s> </e>
+Mac also has many apps and programs that are quite cheap or free .
+<e> apps <d> cheap <d> positive </s> apps <d> free <d> positive </s> programs <d> cheap <d> positive </s> programs <d> free <d> positive </s> </e>
+Unable to boot up this brand new laptop .
+<e> boot up <d> Unable <d> negative </s> </e>
+so in a brief summary i would have to say that i would not recommend dell vostro 1000 to anyone due to it being a down right awful setup so in my opinion you should steer clear of them if you want a decent laptop .
+<e> setup <d> awful <d> negative </s> </e>
+The battery life also does n't keep up with the claim but still I think macbook is much ahead from the rest of the pack .
+<e> battery life <d> does n't <d> negative </s> battery life <d> much ahead <d> negative </s> </e>
+The internet capabilities are also very strong and picks up signals very easily .
+<e> internet capabilities <d> strong <d> positive </s> internet capabilities <d> easily <d> positive </s> </e>
+The ease of set up was terrific .
+<e> set up <d> ease <d> positive </s> set up <d> terrific <d> positive </s> </e>
+Yes , I thought the expese was a little much , but I now realize you get what you pay for .
+<e> expese <d> much <d> negative </s> </e>
+The price was very good , and the product is top quality .
+<e> price <d> good <d> positive </s> quality <d> top <d> positive </s> </e>
+The screen almost looked like a barcode when it froze .
+<e> screen <d> barcode <d> negative </s> screen <d> froze <d> negative </s> </e>
+You can even run a parallels type program easily and run any leftover PC software that you absolutely can not be without .
+<e> parallels type program <d> easily <d> positive </s> </e>
+It was hard to handle and operate at school .
+<e> handle <d> hard <d> negative </s> operate <d> hard <d> negative </s> </e>
+It has easy to use features and all the speed and power I could ask for .
+<e> features <d> easy <d> positive </s> speed <d> easy <d> positive </s> power <d> easy <d> positive </s> </e>
+The Mac Snow Leopard O/S is extremely easy to use , although very different than Win XP , Visa or Win7 .
+<e> Mac Snow Leopard O/S <d> easy to use <d> positive </s> Mac Snow Leopard O/S <d> different <d> positive </s> </e>
+The screen is nice and the images comes very clear , the keyboard and the fit just feels right .
+<e> screen <d> nice <d> positive </s> keyboard <d> right <d> positive </s> fit <d> right <d> positive </s> </e>
+Great value , fast delivery -- Computer works as if brand new , no problems , very pleased
+<e> value <d> Great <d> positive </s> delivery <d> fast <d> positive </s> delivery <d> pleased <d> positive </s> </e>
+and they replaced the awesome ergonomic small lightweight power supply with a power supply that weighed more than the machine itself .
+<e> power supply <d> lightweight <d> negative </s> power supply <d> weighed <d> negative </s> </e>
+We love the size of the screen , although it is still lightweight and very easy to tote around .
+<e> size of the screen <d> love <d> positive </s> tote <d> easy <d> positive </s> </e>
+I would definitely reccomend this if you are in the market for an ease to use , stylish , fun , awesome computer .
+<e> use <d> ease <d> positive </s> </e>
+Could not keep up with me and finally the hard drive went out .
+<e> hard drive <d> went out <d> negative </s> </e>
+They should have included more memory on their computers if they knew Vista would run slowly .
+<e> memory <d> more <d> negative </s> Vista <d> slowly <d> negative </s> </e>
+After the warrenty expired the hard drive went bad and it would have cost more to fix then to replace .
+<e> hard drive <d> bad <d> negative </s> </e>
+I love the size , keyboard , the functions .
+<e> size <d> love <d> positive </s> keyboard <d> love <d> positive </s> functions <d> love <d> positive </s> </e>
+Also , I issued a replacement RMA for a few dead pixels in the upper zone of the screen , which is noticable to me .
+<e> screen <d> noticable <d> negative </s> </e>
+The only thing I wish this had was the option to turn off the touchpad with a button like my big 16 '' laptop does .
+<e> touchpad <d> turn off <d> negative </s> </e>
+The machine is slow to boot up and occasionally crashes completely .
+<e> boot up <d> slow <d> negative </s> boot up <d> crashes <d> negative </s> </e>
+The battery life also does n't keep up with the claim but still I think macbook is much ahead from the rest of the pack .
+<e> battery life <d> does n't keep up with the claim <d> negative </s> battery life <d> much ahead <d> negative </s> </e>
+Treat yourself to a more expensive , long-lasting laptop of quality like a Sony , Apple , or Toshiba .
+<e> quality <d> long-lasting <d> positive </s> </e>
+But to be honest , I do n't use my computer for anything like graphics editing and complex data analysis and gaming .
+<e> graphics editing <d> do n't use <d> neutral </s> complex data analysis <d> do n't use <d> neutral </s> gaming <d> do n't use <d> neutral </s> </e>
+Fast , great visual !
+<e> visual <d> Fast <d> positive </s> visual <d> great <d> positive </s> </e>
+It 's priced very reasonable and works very well right out of the box .
+<e> priced <d> reasonable <d> positive </s> works <d> well <d> positive </s> </e>
+However , I love this particular Mac because its very fast , great size , and has fantastic features like the lighted keyboard and easy mouse pad .
+<e> size <d> great <d> positive </s> features <d> fantastic <d> positive </s> lighted keyboard <d> fantastic <d> positive </s> mouse pad <d> easy <d> positive </s> </e>
+Applications open in seconds and there are no lags , hiccups or awkward moments when you wonder whether your computer is out for tea .
+<e> Applications <d> open in seconds <d> positive </s> </e>
+The feel of this machine compared to the old MacBook is far superior .
+<e> feel <d> superior <d> positive </s> </e>
+They break down just as often as PCs do , and the only reason they do n't get viruses , is because no one makes viruses for them , they 're not better in any way , they are worse , try finding virus protection programs for a Mac , they do n't exist .
+<e> virus protection programs for a Mac <d> not better <d> negative </s> virus protection programs for a Mac <d> worse <d> negative </s> </e>
+It is fast and i have not had a problem with internet connection or any other problems .
+<e> internet connection <d> fast <d> positive </s> internet connection <d> not had a problem <d> positive </s> </e>
+Well , I have to say since I bought my Mac , I wo n't ever go back to any Windows .
+<e> Windows <d> wo n't ever go back <d> negative </s> </e>
+I took it in to the Apple store and guess what ? They fixed it , no cost out of pocket .
+<e> cost <d> no <d> negative </s> </e>
+The applications are also very easy to find and maneuver , much easier than any other computer I have ever owned .
+<e> applications <d> easy <d> positive </s> applications <d> easier <d> positive </s> </e>
+All of the programs ( Keynote , Pages , Numbers ) have an option to save your documents as Microsoft compatible , which really eliminates the need for the actual .
+<e> Numbers <d> eliminates <d> neutral </s> </e>
+The best thing to do is build your own computer , but if u ca n't company 's like dell who allow you to choose the components are better and for the same price you can get a computer who compares to one of apple $ 2000 systems and if you google `` dell coupons '' you can find codes that take a significant amount off the price .
+<e> components <d> better <d> positive </s> </e>
+For me I was lucky and a local store was selling them for $ 2000 off and Best Buy matched their price so I was able to buy one for under $ 1000
+<e> price <d> lucky <d> positive </s> price <d> Best <d> positive </s> </e>
+Unfortunately , Apple 's quality has continued to slide .
+<e> quality <d> Unfortunately <d> negative </s> quality <d> slide <d> negative </s> </e>
+I believe that the quality of a mac is worth the price .
+<e> quality <d> worth <d> positive </s> price <d> worth <d> positive </s> </e>
+I would rate this computer at 5 stars , but considering it has a short life span I can only give it 1 and implore anyone looking at laptops to stay away from this machine .
+<e> life span <d> short <d> negative </s> </e>
+The layout of the MacBook is horrible and confusing ;
+<e> layout <d> horrible <d> negative </s> layout <d> confusing <d> negative </s> </e>
+Also it is very good for college students who just need a reliable , easy to use computer .
+<e> use <d> good <d> positive </s> use <d> reliable <d> positive </s> use <d> easy <d> positive </s> </e>
+Overall : Poor , Features : Average , Performance : Poor , Battery Life : Excellent , Price -- Value : Poor
+<e> Features <d> Average <d> neutral </s> Performance <d> Poor <d> negative </s> Battery Life <d> Excellent <d> positive </s> Price <d> Poor <d> negative </s> Value <d> Poor <d> negative </s> </e>
+The graphics are stunning .
+<e> graphics <d> stunning <d> positive </s> </e>
+Seems to slow down occassionally but can run many applications ( ie Internet tabs , programs , etc ) simultaneously .
+<e> applications <d> many <d> positive </s> </e>
+Not to mention sometimes the whole charger unit will decide not to work entirely .
+<e> charger unit <d> not to work entirely <d> negative </s> </e>
+The feel of this is better than the Toshiba , too .
+<e> feel <d> better <d> positive </s> </e>
+Anyway , in early July of this year , the DVD burner stopped working , and the computer stared having issues with power supply .
+<e> DVD burner <d> stopped working <d> negative </s> power supply <d> issues <d> negative </s> </e>
+Then after 4 or so months the charger stopped working so I was forced to go out and buy new hardware just to keep this computer running .
+<e> charger <d> stopped working <d> negative </s> hardware <d> new <d> negative </s> </e>
+You ca n't even get a satellite card which is why I bought to begin with .
+<e> satellite card <d> ca n't even get <d> negative </s> </e>
+It is a REAL touchpad , not the toy I saw in other brands .
+<e> touchpad <d> REAL <d> positive </s> </e>
+Wonderful zooming .
+<e> zooming <d> Wonderful <d> positive </s> </e>
+He has replaced his hard drive twice and ( of course ) has had to pay for antivirus software every year .
+<e> hard drive <d> replaced <d> negative </s> </e>
+This purchase opened me to the world of Macbooks , and I am impressed with the intuition of the design , the beauty of the product , and the excellent technological advances associated with it .
+<e> design <d> impressed <d> positive </s> beauty <d> impressed <d> positive </s> </e>
+The price is great for this model , I only plan on using it for media in the entertainment room .
+<e> price <d> great <d> positive </s> </e>
+It seemed to be a very nice laptop except I was not able to load my Garmin GPS software or Microsoft Office 2003 .
+<e> Garmin GPS software <d> not able to load <d> negative </s> Microsoft Office 2003 <d> not able to load <d> negative </s> </e>
+I 've also had to have the keyboard replaced at my expense .
+<e> keyboard <d> replaced <d> negative </s> </e>
+Was very much worth the price i paid .
+<e> price <d> worth <d> positive </s> </e>
+Even out of warranty !
+<e> warranty <d> out of <d> neutral </s> </e>
+Keyboard is plastic and spongey feeling .
+<e> Keyboard <d> plastic <d> negative </s> Keyboard <d> spongey feeling <d> negative </s> </e>
+previous laptops were pc 's , still have them , but the mac osx is a clean and smooth operating system .
+<e> mac osx <d> clean <d> positive </s> mac osx <d> smooth <d> positive </s> operating system <d> clean <d> positive </s> operating system <d> smooth <d> positive </s> </e>
+i also love having the extra calculator number set up on the keyboard which most laptops do not have .
+<e> keyboard <d> love <d> positive </s> </e>
